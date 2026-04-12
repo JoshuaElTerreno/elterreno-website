@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About Us — El Terreno</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+
+    /* ── HERO ── matches homepage hero style */
+    .about-hero {
+      min-height: 50vh;
+      display: flex;
+      align-items: flex-end;
+      padding: 3.5rem 5rem 4rem;
+      background: #1F6366;
+      position: relative;
+    }
+    .about-hero h1 {
+      font-size: clamp(2.2rem, 5vw, 4rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -0.01em;
+      line-height: 1.02;
+      color: #F9BA47;
+    }
+
+    /* ── SECTION SYSTEM ──
+       Each section = full-width panel, alternating bg for rhythm
+       Matches the Projects page layout style
+    */
+    .about-section {
+      padding: 5rem;
+      border-bottom: 1px solid rgba(255,255,255,0.07);
+    }
+
+    /* Colour bands between sections — same as homepage */
+    .about-band {
+      height: 6px;
+      width: 100%;
+    }
+    .band-story    { background: linear-gradient(90deg, #1F6366, #58BA96, #1F6366); }
+    .band-mv       { background: linear-gradient(90deg, #1F6366, #F9BA47, #1F6366); }
+    .band-phil     { background: linear-gradient(90deg, #1F6366, #9B372F, #1F6366); }
+    .band-team     { background: linear-gradient(90deg, #1F6366, #22395C, #1F6366); }
+
+    /* Section backgrounds — teal palette, alternating */
+    .section-story    { background: #1F6366; }
+    .section-mv       { background: #1a5558; }
+    .section-phil     { background: #163f42; }
+    .section-team     { background: #1a5558; }
+    .section-values   { background: #1E2134; }
+
+    /* Section label */
+    .s-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.22em;
+      text-transform: uppercase;
+      color: #58BA96;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+
+    /* Section heading */
+    .about-section h2 {
+      font-size: clamp(2rem, 3.5vw, 3rem);
+      font-weight: 900;
+      text-transform: uppercase;
+      letter-spacing: -0.01em;
+      line-height: 0.95;
+      color: #F9BA47;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Sub-heading within sections */
+    .about-section h3 {
+      font-size: 0.65rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #58BA96;
+      margin-bottom: 0.5rem;
+      margin-top: 2rem;
+    }
+    .about-section h3:first-of-type { margin-top: 0; }
+
+    /* Kichwa term beside heading */
+    .kichwa {
+      font-size: 0.75em;
+      font-weight: 400;
+      color: #58BA96;
+      letter-spacing: 0.08em;
+      font-style: italic;
+      margin-left: 0.75rem;
+      vertical-align: middle;
+    }
+
+    /* Body text */
+    .about-section p {
+      font-size: 0.97rem;
+      line-height: 1.82;
+      color: rgba(255,255,255,0.78);
+      max-width: 760px;
+      margin-bottom: 1rem;
+    }
+    .about-section p strong { color: #FFFFFE; font-weight: 700; }
+
+    /* List */
+    .about-section ul {
+      list-style: none;
+      padding: 0;
+      max-width: 720px;
+      margin-bottom: 1rem;
+    }
+    .about-section ul li {
+      font-size: 0.93rem;
+      color: rgba(255,255,255,0.7);
+      line-height: 1.65;
+      padding: 0.35rem 0 0.35rem 1.1rem;
+      border-left: 2px solid rgba(88,186,150,0.3);
+      margin-bottom: 0.55rem;
+    }
+
+    /* Two-column layout (Philosophy) */
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4rem;
+      margin-top: 0.5rem;
+    }
+    .two-col-label {
+      font-size: 0.6rem;
+      font-weight: 700;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #F9BA47;
+      display: block;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid rgba(249,186,71,0.2);
+    }
+
+    /* Mission pull-quote */
+    .mission-block {
+      padding-left: 1.2rem;
+      border-left: 3px solid #58BA96;
+      margin-bottom: 1.5rem;
+    }
+
+    /* Team cards */
+    .team-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 1.2rem;
+      margin-top: 1rem;
+    }
+    .team-card {
+      background: rgba(255,255,255,0.05);
+      border: 1px solid rgba(255,255,255,0.08);
+      padding: 1.5rem;
+    }
+    .team-card h3 {
+      font-size: 0.85rem;
+      font-weight: 900;
+      text-transform: uppercase;
+      color: #F9BA47;
+      margin: 0 0 0.2rem;
+      letter-spacing: 0.02em;
+    }
+    .team-card .role {
+      font-size: 0.62rem;
+      font-weight: 700;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: #58BA96;
+      display: block;
+      margin-bottom: 0.6rem;
+    }
+    .team-card p { font-size: 0.85rem; max-width: none; margin: 0; }
+
+    /* ── VALUES ── full-width dark panel */
+    .values-section {
+      background: #1E2134;
+      padding: 5rem;
+    }
+    .values-section .s-label { color: #58BA96; }
+    .values-section h2 { color: #F9BA47; margin-bottom: 2rem; }
+
+    .values-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5px;
+      background: rgba(255,255,255,0.05);
+    }
+    .value-card {
+      background: #1E2134;
+      padding: 2.2rem 1.8rem;
+      border-top: 3px solid transparent;
+      transition: border-color 0.2s;
+    }
+    .value-card:hover { border-top-color: #58BA96; }
+    .value-name {
+      font-size: 0.72rem;
+      font-weight: 900;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #F9BA47;
+      display: block;
+      margin-bottom: 0.5rem;
+    }
+    .value-desc {
+      font-size: 0.88rem;
+      line-height: 1.65;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 0.55rem;
+    }
+    .value-not {
+      font-size: 0.7rem;
+      color: rgba(255,255,255,0.28);
+      font-style: italic;
+      line-height: 1.5;
+    }
+    .value-not::before {
+      content: 'Not: ';
+      font-weight: 700;
+      font-style: normal;
+      color: rgba(88,186,150,0.35);
+    }
+
+    footer { background: #1E2134; margin-top: 0; }
+
+    @media (max-width: 900px) {
+      .about-hero { padding: 3rem 2rem; min-height: 30vh; }
+      .about-section, .values-section { padding: 3rem 2rem; }
+      .two-col { grid-template-columns: 1fr; gap: 2rem; }
+      .values-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<header class="site-header" id="site-header"></header>
+
+<!-- HERO -->
+<div class="about-hero">
+  <h1>About Us</h1>
+</div>
+
+<!-- ── 01 OUR STORY ── -->
+<div class="about-band band-story"></div>
+<section class="about-section section-story" id="story">
+  <span class="s-label">01 — How We Got Here</span>
+  <h2>Our Story</h2>
+  <p>El Terreno was founded by Joshua Holmes in 2022. What began as a vision for a genuinely reciprocal cultural exchange programme has grown over five years into a multi-organisational platform for community development, sustainable tourism and international cooperation.</p>
+  <p>Joshua arrived in Guaranda in his mid-thirties, navigating his own life transition, and found something unexpected: a place where the depth of community and the richness of indigenous culture offered an antidote to everything that modern Western life seemed to be getting wrong.</p>
+  <p>Since 2022 we have delivered over 130 community workshops and events, welcomed participants from across the world, and built partnerships with government bodies, universities and international organisations. We are still small. Still building. And committed to doing this slowly, carefully and well — in the spirit of Ayni.</p>
+</section>
+
+<!-- ── 02 VISION & MISSION ── -->
+<div class="about-band band-mv"></div>
+<section class="about-section section-mv" id="mission">
+  <span class="s-label">02 — What We Stand For</span>
+  <h2>Vision &amp; Mission</h2>
+
+  <h3>Vision <span class="kichwa">Sumak Kawsay</span></h3>
+  <div class="mission-block">
+    <p>We envision a world of diverse cultural ecosystems, where we all live successful and significant lives.</p>
+  </div>
+
+  <h3>Foundation Mission <span class="kichwa">Minga</span></h3>
+  <div class="mission-block">
+    <p>To co-create more vibrant, prosperous, and regenerative communities where migration is a choice — not a necessity.</p>
+  </div>
+
+  <h3>Cultural Exchange Centre Mission <span class="kichwa">Tinkuy</span></h3>
+  <div class="mission-block">
+    <p>To be a bridge between modern and ancestral thought, building the next generation of conscious global leaders.</p>
+  </div>
+</section>
+
+<!-- ── 03 OUR PHILOSOPHY ── -->
+<div class="about-band band-phil"></div>
+<section class="about-section section-phil" id="philosophy">
+  <span class="s-label">03 — How We Think</span>
+  <h2>Our Philosophy</h2>
+  <div class="two-col">
+    <div>
+      <span class="two-col-label">The Problem</span>
+      <p>In the race for material prosperity, the Global North has unintentionally created a breadth of crises — from climate to mental health, from meaning to AI — making our future very uncertain. We have lost our connection to community, nature, service and spirit: the things that bring true joy while enriching the world around us.</p>
+      <p>Indigenous peoples have existed for thousands of years in harmony with Mother Earth. Yet after centuries of oppression and globalisation that glamorises a Western lifestyle, many are disowning their cultures to migrate in search of a better life.</p>
+      <p>Each culture is facing a crisis. Each culture possesses what the other needs. But we only have a generation to prevent us losing everything.</p>
+    </div>
+    <div>
+      <span class="two-col-label">The Solution</span>
+      <p>In the same way a diverse ecosystem is more abundant and resilient, so too are we as humanity when we experience meaningful cultural diversity. Through the respectful exchange of cultures, traditions and worldviews, we can create meaningful solutions to the greatest challenges of our time.</p>
+      <p>We are building a real-world microcosm of a more vibrant, prosperous and regenerative world.</p>
+      <p>We invite you to become a part of this mission in the heart of the Ecuadorian Andes.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── 04 OUR TEAM ── -->
+<div class="about-band band-team"></div>
+<section class="about-section section-team" id="team">
+  <span class="s-label">04 — The People</span>
+  <h2>Our Team</h2>
+  <div class="team-grid">
+    <div class="team-card">
+      <h3>Joshua Holmes</h3>
+      <span class="role">Founder &amp; Director</span>
+      <p>Leads strategy, facilitation and international partnerships. Committed to integrating Andean cosmological frameworks into El Terreno's philosophy and practice.</p>
+    </div>
+    <div class="team-card">
+      <h3>Core Team</h3>
+      <span class="role">Coordinators &amp; Staff</span>
+      <p>Coordinators, department leads, cooks, builders and mentors drawn from the local community. Full profiles coming soon.</p>
+    </div>
+    <div class="team-card">
+      <h3>Partners</h3>
+      <span class="role">Institutional Network</span>
+      <p>Kaya Responsible Travel, EcuaExplora, SEIBE, Ministerio de Salud Pública, Acción Social Municipal Guaranda, Sinclair School of Nursing (University of Missouri).</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── VALUES ── -->
+<section class="values-section" id="values">
+  <span class="s-label">Our Values</span>
+  <h2>Values</h2>
+  <div class="values-grid">
+    <div class="value-card">
+      <span class="value-name">Authentic Purpose</span>
+      <p class="value-desc">Collaborating only with people who have a genuine desire to make an impact.</p>
+      <p class="value-not">Selfish, egotistical, fake, politically driven</p>
+    </div>
+    <div class="value-card">
+      <span class="value-name">Whole Person</span>
+      <p class="value-desc">Seeing our shared humanity and welcoming it into our connected international community.</p>
+      <p class="value-not">People hiding behind a mask or just fulfilling a role</p>
+    </div>
+    <div class="value-card">
+      <span class="value-name">Lived Experience</span>
+      <p class="value-desc">Believing that viable and lasting solutions come from integrating diverse perspectives.</p>
+      <p class="value-not">Paternalism, imposing preconceived ideas</p>
+    </div>
+    <div class="value-card">
+      <span class="value-name">Excellence In Service</span>
+      <p class="value-desc">Taking pride in our work for the benefit of others.</p>
+      <p class="value-not">'Good enough' work, cutting corners, laziness, excuses</p>
+    </div>
+    <div class="value-card">
+      <span class="value-name">Break The Mold</span>
+      <p class="value-desc">Bringing inspired innovation to community development.</p>
+      <p class="value-not">Stuck in convention, bureaucracy and stale traditions</p>
+    </div>
+    <div class="value-card">
+      <span class="value-name">Legacy In Mind</span>
+      <p class="value-desc">Building sustainable organisations as a gift for the next generations.</p>
+      <p class="value-not">Short-term goals at the expense of values and long-term objectives</p>
+    </div>
+  </div>
+</section>
+
+<footer id="site-footer"></footer>
+<script src="nav.js"></script>
+<script>buildNav('about', 0);</script>
+</body>
+</html>
