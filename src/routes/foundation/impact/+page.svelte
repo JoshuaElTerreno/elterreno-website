@@ -10,7 +10,7 @@
 />
 
 <!-- BANNER -->
-<section class="section-banner" style="background:#22395c; color:#fffffe; border-bottom:none;">
+<section class="section-banner banner-dark">
 	<span class="eyebrow" style="color:rgba(255,255,255,0.5);">Foundation</span>
 	<h1>Our Impact</h1>
 	<p>We are proud of what we have achieved — but we have ambitions for much more.</p>

@@ -162,7 +162,8 @@ h6 {
 	z-index: 200;
 }
 
-.main-nav > li:hover .dropdown {
+.main-nav > li:hover .dropdown,
+.main-nav > li:focus-within .dropdown {
 	display: block;
 }
 
@@ -185,6 +186,10 @@ h6 {
 }
 
 /* ── FOOTER ── */
+footer .site-logo {
+	margin-bottom: 1.2rem;
+}
+
 footer {
 	background: #1e2134;
 	color: #58ba96;
@@ -293,6 +298,12 @@ footer a:hover {
 .section-banner {
 	padding: 3rem 2rem 2.5rem;
 	border-bottom: 1px solid #ccccca;
+}
+
+.section-banner.banner-dark {
+	background: #22395c;
+	color: #fffffe;
+	border-bottom: none;
 }
 
 .section-banner .eyebrow {

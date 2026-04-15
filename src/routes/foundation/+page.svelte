@@ -10,7 +10,7 @@
 />
 
 <!-- BANNER -->
-<section class="section-banner" style="background:#22395c; color:#fffffe; border-bottom:none;">
+<section class="section-banner banner-dark">
 	<span class="eyebrow" style="color:rgba(255,255,255,0.5);">El Terreno</span>
 	<h1>Foundation</h1>
 	<p>
