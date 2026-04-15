@@ -22,9 +22,9 @@
 	</div>
 	<div>
 		<h5>Foundation</h5>
-		<a href="/foundation/projects">Projects</a>
-		<a href="/foundation/impact">Impact</a>
-		<a href="/foundation/donate">Donate</a>
+		<a href="/projects/projects">Projects</a>
+		<a href="/projects/impact">Impact</a>
+		<a href="/projects/donate">Donate</a>
 	</div>
 	<div>
 		<h5>Programmes</h5>

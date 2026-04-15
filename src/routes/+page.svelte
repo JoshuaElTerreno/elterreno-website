@@ -31,9 +31,9 @@
 			where migration is a choice — not a necessity.
 		</p>
 		<div class="cta-row">
-			<a href="/foundation/projects" class="btn-ghost">Projects</a>
-			<a href="/foundation/impact" class="btn-ghost">Impact</a>
-			<a href="/foundation/donate" class="btn-std">Donate</a>
+			<a href="/projects/projects" class="btn-ghost">Projects</a>
+			<a href="/projects/impact" class="btn-ghost">Impact</a>
+			<a href="/projects/donate" class="btn-std">Donate</a>
 		</div>
 	</div>
 </div>

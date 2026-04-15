@@ -39,7 +39,7 @@
 				<h3>Specialist Tracks</h3>
 				<p>We offer 18 specialist internship tracks designed around El Terreno's active projects and community needs. Each track is tailored to your background and career stage.</p>
 				<div class="placeholder">[ Specialist tracks list — coming soon ]</div>
-				<p>See our active projects for inspiration: <a href="/foundation/projects">Foundation Projects →</a></p>
+				<p>See our active projects for inspiration: <a href="/projects/projects">Foundation Projects →</a></p>
 			</div>
 
 			<div class="content-block">

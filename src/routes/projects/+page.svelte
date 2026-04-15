@@ -6,7 +6,7 @@
 	title="Foundation"
 	description="El Terreno Foundation co-creates vibrant, prosperous and regenerative communities in Ecuador — where migration is a choice, not a necessity. Explore our projects and impact."
 	section="El Terreno"
-	path="/foundation"
+	path="/projects"
 />
 
 <!-- BANNER -->
@@ -93,9 +93,9 @@
 		<aside class="sidebar">
 			<div class="sidebar-box">
 				<h4>Foundation pages</h4>
-				<a href="/foundation/projects">Projects</a>
-				<a href="/foundation/impact">Impact</a>
-				<a href="/foundation/donate">Donate</a>
+				<a href="/projects/projects">Projects</a>
+				<a href="/projects/impact">Impact</a>
+				<a href="/projects/donate">Donate</a>
 			</div>
 
 			<div class="sidebar-box">
@@ -104,7 +104,7 @@
 					Your donation directly funds community projects in Bolívar. No overhead — every dollar
 					goes straight to impact.
 				</p>
-				<a href="/foundation/donate" class="btn btn-primary donate-btn">Donate now</a>
+				<a href="/projects/donate" class="btn btn-primary donate-btn">Donate now</a>
 			</div>
 		</aside>
 	</div>
@@ -120,75 +120,75 @@
 	</div>
 
 	<div class="cards-grid">
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Environment</span>
 			<h3>Architecture & Sustainable Building</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Water</span>
 			<h3>Community Water Management</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Ecology</span>
 			<h3>Agroecology & Community Farming</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Education</span>
 			<h3>Education & English Teaching</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Media</span>
 			<h3>Journalism & Multimedia</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Ecology</span>
 			<h3>Nursery Development</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Infrastructure</span>
 			<h3>Environmental & Civil Engineering</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Health</span>
 			<h3>Cooking & Family Nutrition</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Ecology</span>
 			<h3>Biology & Endemic Ecology</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Culture</span>
 			<h3>Anthropology & Development</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Health</span>
 			<h3>Medicine & Public Health</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Health</span>
 			<h3>Gender Equality & Reproductive Health</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Tourism</span>
 			<h3>Eco & Community Tourism</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Culture</span>
 			<h3>Murals & Community Arts</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Economy</span>
 			<h3>Community Business Development</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Governance</span>
 			<h3>Law & Community Governance</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Culture</span>
 			<h3>Language & Cultural Preservation</h3>
 		</a>
-		<a href="/foundation/projects" class="card">
+		<a href="/projects/projects" class="card">
 			<span class="tag">Environment</span>
 			<h3>Extractivism & Conservation</h3>
 		</a>

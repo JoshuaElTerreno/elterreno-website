@@ -6,7 +6,7 @@
 	title="Our Impact"
 	description="Measuring the difference El Terreno Foundation makes — community projects, livelihoods supported, and regenerative change in Guaranda, Bolívar, Ecuador."
 	section="El Terreno Foundation"
-	path="/foundation/impact"
+	path="/projects/impact"
 />
 
 <!-- BANNER -->
@@ -79,10 +79,10 @@
 		<aside class="sidebar">
 			<div class="sidebar-box">
 				<h4>Foundation</h4>
-				<a href="/foundation">Overview</a>
-				<a href="/foundation/projects">Projects</a>
-				<a href="/foundation/impact" class="current">Impact</a>
-				<a href="/foundation/donate">Donate</a>
+				<a href="/projects">Overview</a>
+				<a href="/projects/projects">Projects</a>
+				<a href="/projects/impact" class="current">Impact</a>
+				<a href="/projects/donate">Donate</a>
 			</div>
 		</aside>
 	</div>

@@ -6,7 +6,7 @@
 	title="Projects"
 	description="Explore El Terreno Foundation's community development projects in Ecuador — from regenerative agriculture and food sovereignty to education, health, and local enterprise."
 	section="El Terreno Foundation"
-	path="/foundation/projects"
+	path="/projects/projects"
 />
 
 <!-- HERO -->
@@ -241,8 +241,8 @@
 	</p>
 
 	<div class="donate-cta">
-		<a href="/foundation/donate" class="btn-donate-lg">Donate Now</a>
-		<a href="/foundation/impact" class="btn-ghost-nav">Read Our Impact Report</a>
+		<a href="/projects/donate" class="btn-donate-lg">Donate Now</a>
+		<a href="/projects/impact" class="btn-ghost-nav">Read Our Impact Report</a>
 	</div>
 </section>
 

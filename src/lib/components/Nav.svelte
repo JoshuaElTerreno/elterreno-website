@@ -5,7 +5,7 @@
 
 	const isActive = $derived({
 		about: path.startsWith('/about'),
-		projects: path.startsWith('/foundation'),
+		projects: path.startsWith('/projects'),
 		programmes: path.startsWith('/programmes'),
 		visits: path.startsWith('/tourism'),
 		contact: path.startsWith('/contact')
@@ -32,13 +32,13 @@
 				</ul>
 			</li>
 			<li>
-				<a href="/foundation/projects" class="section-projects" class:active={isActive.projects}>Projects</a>
+				<a href="/projects/projects" class="section-projects" class:active={isActive.projects}>Projects</a>
 				<ul class="dropdown">
-					<li><a href="/foundation/projects#local-challenges">Local Challenges</a></li>
-					<li><a href="/foundation/projects#projects">Specific Projects</a></li>
-					<li><a href="/foundation/projects#partners">Partners</a></li>
-					<li><a href="/foundation/projects#impact">Impact</a></li>
-					<li><a href="/foundation/projects#donate">Donate</a></li>
+					<li><a href="/projects/projects#local-challenges">Local Challenges</a></li>
+					<li><a href="/projects/projects#projects">Specific Projects</a></li>
+					<li><a href="/projects/projects#partners">Partners</a></li>
+					<li><a href="/projects/projects#impact">Impact</a></li>
+					<li><a href="/projects/projects#donate">Donate</a></li>
 				</ul>
 			</li>
 			<li>

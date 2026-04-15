@@ -6,7 +6,7 @@
 	title="Support Our Work"
 	description="Support El Terreno Foundation's community development projects in Ecuador. Your donation helps co-create more vibrant, prosperous communities in the Ecuadorian Andes."
 	section="El Terreno Foundation"
-	path="/foundation/donate"
+	path="/projects/donate"
 />
 
 <!-- BANNER -->
@@ -57,10 +57,10 @@
 		<aside class="sidebar">
 			<div class="sidebar-box">
 				<h4>Foundation</h4>
-				<a href="/foundation">Overview</a>
-				<a href="/foundation/projects">Projects</a>
-				<a href="/foundation/impact">Impact</a>
-				<a href="/foundation/donate" class="current">Donate</a>
+				<a href="/projects">Overview</a>
+				<a href="/projects/projects">Projects</a>
+				<a href="/projects/impact">Impact</a>
+				<a href="/projects/donate" class="current">Donate</a>
 			</div>
 
 			<div class="sidebar-box">
