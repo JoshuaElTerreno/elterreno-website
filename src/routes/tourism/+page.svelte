@@ -21,7 +21,7 @@
 
 <!-- ── SECTION 1: Location & Geography ── -->
 <section class="tourism-section" id="location">
-	<p class="s-label">01 — Where We Are</p>
+	<p class="eyebrow">01 — Where We Are</p>
 	<h2>Location & Geography</h2>
 
 	<p class="section-desc">El Terreno is based in the community of Atandahua, on the outskirts of Guaranda — capital of the Bolívar province in the central Andes of Ecuador. At 3,800 metres above sea level, the landscape shifts daily between glacial páramo, cloud forest and subtropical valleys.</p>
@@ -66,7 +66,7 @@
 
 <!-- ── SECTION 2: Activities ── -->
 <section class="tourism-section" id="activities">
-	<p class="s-label">02 — What To Do</p>
+	<p class="eyebrow">02 — What To Do</p>
 	<h2>Tourism Activities</h2>
 
 	<p class="section-desc">We blend innovative ideas with local tradition to offer experiences that are genuinely off the beaten track. Every activity is led or co-led by local community members.</p>
@@ -108,7 +108,7 @@
 
 <!-- ── SECTION 3: Accommodation ── -->
 <section class="tourism-section" id="accommodation">
-	<p class="s-label">03 — Where To Stay</p>
+	<p class="eyebrow">03 — Where To Stay</p>
 	<h2>Accommodation</h2>
 
 	<p class="section-desc">El Terreno offers a range of accommodation options for visitors, programme participants and groups. All spaces are on-site, embedded within the working community — not a hotel, but a living place.</p>
@@ -195,14 +195,8 @@
 		text-align: center;
 	}
 
-	.s-label {
-		font-size: 0.65rem;
-		font-weight: 700;
-		letter-spacing: 0.22em;
-		text-transform: uppercase;
+	.eyebrow {
 		color: rgba(218, 121, 57, 0.8);
-		margin-bottom: 0.75rem;
-		display: block;
 	}
 
 	.tourism-section h2 {

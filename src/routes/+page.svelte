@@ -16,7 +16,7 @@
 			We Envision A World Of Diverse Cultural Ecosystems,<br />Where We All Live Successful And
 			Significant Lives.
 		</span>
-		<a href="/about" class="hero-cta">About Us</a>
+		<a href="/about" class="btn">About Us</a>
 	</div>
 </section>
 
@@ -175,26 +175,6 @@
 		display: block;
 		line-height: 2;
 		white-space: nowrap;
-	}
-	.hero-cta {
-		display: inline-block;
-		padding: 0.75rem 1.8rem;
-		font-family: inherit;
-		font-size: 0.72rem;
-		font-weight: 700;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		text-decoration: none;
-		background: #9b372f;
-		color: #f9ba47;
-		border: 1.5px solid #9b372f;
-		transition: all 0.25s;
-		border-radius: 24px;
-	}
-	.hero-cta:hover {
-		background: transparent;
-		color: #fffffe;
-		border-color: rgba(255, 255, 255, 0.5);
 	}
 	.band {
 		height: 6px;

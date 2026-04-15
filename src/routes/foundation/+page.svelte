@@ -200,22 +200,7 @@
 		color: #fffffe;
 	}
 
-	.btn-primary {
-		display: inline-block;
-		padding: 0.7rem 1.6rem;
-		font-size: 0.72rem;
-		font-weight: 700;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		text-decoration: none;
-		background: #9b372f;
-		color: #f9ba47;
-		border: 1.5px solid #9b372f;
-		border-radius: 24px;
-		transition: all 0.25s;
-		white-space: nowrap;
-	}
-
+	/* Light-background hover override for .btn used on white sidebar */
 	.btn-primary:hover {
 		background: transparent;
 		color: #1e2134;

@@ -10,7 +10,7 @@
 />
 
 <section class="hero">
-	<p class="s-label">About El Terreno</p>
+	<p class="eyebrow">About El Terreno</p>
 	<h1>About Us</h1>
 	<p class="subtitle">
 		<span class="sumak">"Sumak Kawsay"</span>
@@ -21,9 +21,9 @@
 <div class="divider"></div>
 
 <section class="content-section" id="philosophy">
-	<p class="s-label">01 — How We Think</p>
+	<p class="eyebrow">01 — How We Think</p>
 	<h2>Our Philosophy</h2>
-	<div class="two-col">
+	<div class="philosophy-cols">
 		<div class="col">
 			<p class="col-label">The Problem</p>
 			<p>In the race for material prosperity, the Global North has unintentionally created a breadth of crises — from climate to mental health, from meaning to AI — making our very survival on this planet uncertain. We have lost our connection to community, nature, service and spirit: the things that bring true joy while enriching the world around us.</p>
@@ -42,7 +42,7 @@
 <div class="divider"></div>
 
 <section class="content-section" id="mission">
-	<p class="s-label">02 — What We Stand For</p>
+	<p class="eyebrow">02 — What We Stand For</p>
 	<h2>Vision &amp; Mission</h2>
 
 	<h3 class="sub-heading">Vision</h3>
@@ -64,7 +64,7 @@
 <div class="divider"></div>
 
 <section class="content-section" id="story">
-	<p class="s-label">03 — How We Got Here</p>
+	<p class="eyebrow">03 — How We Got Here</p>
 	<h2>Our Story</h2>
 	<div class="story-body">
 		<p>Since its inception in 2021, El Terreno has grown from a small patch of land in the Ecuadorian Andes into a living laboratory for cultural exchange, regenerative living, and conscious leadership development.</p>
@@ -77,7 +77,7 @@
 <div class="divider"></div>
 
 <section class="content-section" id="team">
-	<p class="s-label">04 — The People</p>
+	<p class="eyebrow">04 — The People</p>
 	<h2>Our Team</h2>
 
 	<span class="team-heading">Core Team</span>
@@ -233,12 +233,8 @@
 	}
 
 	/* ── Labels ── */
-	.s-label {
+	.eyebrow {
 		color: #58BA96;
-		font-size: 0.65rem;
-		letter-spacing: 0.22em;
-		text-transform: uppercase;
-		margin: 0 0 0.75rem;
 	}
 
 	/* ── Section headings ── */
@@ -257,7 +253,7 @@
 	}
 
 	/* ── Philosophy two-column ── */
-	.two-col {
+	.philosophy-cols {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 		gap: 4rem;
@@ -436,7 +432,7 @@
 			padding: 3.5rem 2rem;
 		}
 
-		.two-col {
+		.philosophy-cols {
 			grid-template-columns: 1fr;
 			gap: 2rem;
 		}
