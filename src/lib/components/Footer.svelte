@@ -29,8 +29,7 @@
 	<div>
 		<h5>Programmes</h5>
 		<a href="/programmes/volunteering">Volunteering</a>
-		<a href="/programmes/internships">Internships</a>
-		<a href="/programmes/sabbatical">Residencies</a>
+		<a href="/programmes/changemakers">Changemakers</a>
 		<a href="/programmes/associates">Associates</a>
 	</div>
 	<div>

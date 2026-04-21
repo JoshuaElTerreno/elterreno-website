@@ -56,7 +56,7 @@
 				<div class="acc-option">
 					<h4>Changemaker <span>(from $250 / week)</span></h4>
 					<p>With professional support, deliver hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
-					<a href="/programmes/internships" class="card-link">Learn more →</a>
+					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
 				</div>
 			</div>
 		</details>
@@ -72,7 +72,7 @@
 				<div class="acc-option">
 					<h4>Changemaker <span>(from $250 / week)</span></h4>
 					<p>With professional support, grow your leadership skills through hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
-					<a href="/programmes/internships" class="card-link">Learn more →</a>
+					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
 				</div>
 				<div class="acc-option">
 					<h4>Associate <span>(free / low cost)</span></h4>
@@ -93,7 +93,7 @@
 				<div class="acc-option">
 					<h4>Changemaker <span>(from $250 / week)</span></h4>
 					<p>Use your existing skills to lead hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
-					<a href="/programmes/internships" class="card-link">Learn more →</a>
+					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
 				</div>
 				<div class="acc-option">
 					<h4>Associate <span>(free / low cost)</span></h4>
@@ -114,7 +114,7 @@
 				<div class="acc-option">
 					<h4>Changemaker <span>(from $250 / week)</span></h4>
 					<p>Share your expertise to guide sustainable development projects that make an impact in low-income, indigenous communities</p>
-					<a href="/programmes/internships" class="card-link">Learn more →</a>
+					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
 				</div>
 				<div class="acc-option">
 					<h4>Associate <span>(free / low cost)</span></h4>

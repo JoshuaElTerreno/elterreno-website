@@ -65,8 +65,7 @@
 				<h4>All Programmes</h4>
 				<a href="/programmes">Overview</a>
 				<a href="/programmes/volunteering">Volunteering</a>
-				<a href="/programmes/internships">Internships</a>
-				<a href="/programmes/sabbatical">Sabbatical</a>
+				<a href="/programmes/changemakers">Changemakers</a>
 				<a href="/programmes/associates" class="current">Associates</a>
 			</div>
 

@@ -50,7 +50,7 @@
 		</p>
 		<div class="cta-row">
 			<a href="/programmes" class="btn-ghost-dk">Programmes</a>
-			<a href="/programmes/internships" class="btn-ghost-dk">Methodology</a>
+			<a href="/programmes/changemakers" class="btn-ghost-dk">Methodology</a>
 			<a href="/programmes#apply" class="btn-std">Apply</a>
 		</div>
 	</div>

@@ -45,8 +45,7 @@
 				<a href="/programmes" class="section-programmes" class:active={isActive.programmes}>Programmes</a>
 				<ul class="dropdown">
 					<li><a href="/programmes/volunteering">Practical Service Volunteering</a></li>
-					<li><a href="/programmes/internships">International Changemaker Internships</a></li>
-					<li><a href="/programmes/sabbatical">Conscious Impact Residency</a></li>
+					<li><a href="/programmes/changemakers">Changemakers</a></li>
 					<li><a href="/programmes/associates">Professional Associate Positions</a></li>
 				</ul>
 			</li>

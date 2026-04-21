@@ -3,16 +3,16 @@
 </script>
 
 <Seo
-	title="Internships"
-	description="18 specialist internship tracks across social enterprise, community development, education, media and more in Ecuador. Build your career while making a genuine difference in the Andes."
+	title="Changemakers"
+	description="18 specialist tracks across social enterprise, community development, education, media and more in Ecuador. Build your experience while making a genuine difference in the Andes."
 	section="Programmes"
-	path="/programmes/internships"
+	path="/programmes/changemakers"
 />
 
 <section class="section-banner int-banner">
 	<span class="eyebrow">Programmes</span>
-	<h1>Internships</h1>
-	<p>18 specialist internship tracks across social enterprise, community development, education, media and more. Build your career while making a genuine difference in the Ecuadorian Andes.</p>
+	<h1>Changemakers</h1>
+	<p>18 specialist changemaker tracks across social enterprise, community development, education, media and more. Build your experience while making a genuine difference in the Ecuadorian Andes.</p>
 </section>
 
 <div class="page-content">
@@ -68,8 +68,7 @@
 				<h4>All Programmes</h4>
 				<a href="/programmes">Overview</a>
 				<a href="/programmes/volunteering">Volunteering</a>
-				<a href="/programmes/internships" class="current">Internships</a>
-				<a href="/programmes/sabbatical">Sabbatical</a>
+				<a href="/programmes/changemakers" class="current">Changemakers</a>
 				<a href="/programmes/associates">Associates</a>
 			</div>
 
