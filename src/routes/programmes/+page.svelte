@@ -18,87 +18,111 @@
 	</p>
 </section>
 
-<!-- ── BAND: video ── -->
-<div class="band band-video"></div>
 
-<!-- ── SECTION 1: See It For Yourself ── -->
-<section class="prog-section" id="video">
-	<p class="s-label">01 — See It For Yourself</p>
-	<h2>Life At El Terreno</h2>
-
-	<div class="video-placeholder">
-		<span>[ Video — coming soon ]</span>
-	</div>
-	<p class="video-desc">A short film of daily life, community interaction and the landscape of Bolívar, showing what it truly means to live and work at El Terreno.</p>
-
-	<div class="testimonial-strip">
-		<div class="testimonial-cell">
-			<p class="t-text">"El Terreno changed how I see development work completely. I came with answers and left with better questions."</p>
-			<p class="t-attr">— Maria S., Internship, Germany</p>
-		</div>
-		<div class="testimonial-cell">
-			<p class="t-text">"The combination of real community work, mentoring and living in the Andes was unlike any experience I'd had before."</p>
-			<p class="t-attr">— Thomas K., Associate, Netherlands</p>
-		</div>
-		<div class="testimonial-cell">
-			<p class="t-text">"I came for three months and stayed for six. That says everything you need to know."</p>
-			<p class="t-attr">— Amara D., Volunteering, UK</p>
-		</div>
-	</div>
-</section>
 
 <!-- ── BAND: quad ── -->
 <div class="band band-quad"></div>
 
-<!-- ── SECTION 2: Find Your Programme ── -->
+<!-- ── SECTION 1: Find Your Programme ── -->
 <section class="prog-section" id="programmes">
-	<p class="s-label">02 — Choose Your Path</p>
-	<h2>Find Your Programme</h2>
-	<p class="section-desc">A wide range of ways to participate in El Terreno's work — from short volunteering placements to long-term professional associate roles. Find what fits your stage of life and the kind of impact you want to make.</p>
+	<p class="s-label">01 — Choose Your Path</p>
+	<h2>What Best Describes You?</h2>
 
-	<div class="quadrant-wrapper">
-		<span class="axis-y-top">Community Impact</span>
-		<div class="quadrant-inner">
-			<div class="quadrant-grid">
-				<!-- top-left: Internships -->
-				<a href="/programmes/internships" class="prog-card prog-card-internships">
-					<span class="quadrant-tag">More Experience · Community Impact</span>
-					<h3>International Changemaker Internships</h3>
-					<span class="life-stage">For Emerging Talent</span>
-					<p>Personalised, hands-on internships for students and graduates. 18 specialist tracks. Build your career while making a real difference.</p>
-					<span class="card-link">Learn more →</span>
-				</a>
-				<!-- top-right: Sabbatical -->
-				<a href="/programmes/sabbatical" class="prog-card prog-card-sabbatical">
-					<span class="quadrant-tag">Less Experience · Community Impact</span>
-					<h3>Conscious Impact Residency</h3>
-					<span class="life-stage">For Skilled Professionals</span>
-					<p>Step away from the grind. Use your professional skills to create genuine impact while reconnecting with what matters most, in a stunning Andean setting.</p>
-					<span class="card-link">Learn more →</span>
-				</a>
-				<!-- bottom-left: Volunteering -->
-				<a href="/programmes/volunteering" class="prog-card prog-card-volunteering">
-					<span class="quadrant-tag">Less Experience · Organisational Support</span>
-					<h3>Practical Service Volunteering</h3>
-					<span class="life-stage">For Emerging Talent</span>
-					<p>Roll up your sleeves and contribute directly to El Terreno's operations, events and community projects. No professional track required — just commitment.</p>
-					<span class="card-link">Learn more →</span>
-				</a>
-				<!-- bottom-right: Associates -->
-				<a href="/programmes/associates" class="prog-card prog-card-associates">
-					<span class="quadrant-tag">More Experience · Organisational Support</span>
-					<h3>Professional Associate Positions</h3>
-					<span class="life-stage">For Experienced Leaders</span>
-					<p>Embed your professional expertise into El Terreno's structure. Take ownership of a department, lead a strategic workstream, or help scale what we've built.</p>
-					<span class="card-link">Learn more →</span>
-				</a>
+	<div class="accordion-wrapper">
+		<!-- Nomad -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Nomad</span>
+				<span class="acc-desc">"I'm exploring the world, finding myself and discovering my true passions"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Volunteering <span>(free / low cost)</span></h4>
+					<p>Support El Terreno’s mission through practical day-to-day tasks, such as cooking cleaning and manual labour</p>
+					<a href="/programmes/volunteering" class="card-link">Learn more →</a>
+				</div>
 			</div>
-			<div class="axis-x-row">
-				<span class="axis-x axis-x-left">← Less Experience</span>
-				<span class="axis-x axis-x-right">More Experience →</span>
+		</details>
+
+		<!-- Apprentice -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Apprentice</span>
+				<span class="acc-desc">"I've chosen my direction and I'm ready to turn my studies into real-world experience"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Changemaker <span>(from $250 / week)</span></h4>
+					<p>With professional support, deliver hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
+					<a href="/programmes/internships" class="card-link">Learn more →</a>
+				</div>
 			</div>
-		</div>
-		<span class="axis-y-bottom">Organisational Support</span>
+		</details>
+
+		<!-- Practitioner -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Practitioner</span>
+				<span class="acc-desc">"I have solid professional experience and I'm ready to take on more responsibility and leadership"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Changemaker <span>(from $250 / week)</span></h4>
+					<p>With professional support, grow your leadership skills through hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
+					<a href="/programmes/internships" class="card-link">Learn more →</a>
+				</div>
+				<div class="acc-option">
+					<h4>Associate <span>(free / low cost)</span></h4>
+					<p>Use your high-level skills to support El Terreno’s growth in finance, marketing and business development</p>
+					<a href="/programmes/associates" class="card-link">Learn more →</a>
+				</div>
+			</div>
+		</details>
+
+		<!-- Leader -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Leader</span>
+				<span class="acc-desc">"I have built teams and delivered results, but I'm questioning what it's all for"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Changemaker <span>(from $250 / week)</span></h4>
+					<p>Use your existing skills to lead hands-on sustainable development projects that make an impact in low-income, indigenous communities</p>
+					<a href="/programmes/internships" class="card-link">Learn more →</a>
+				</div>
+				<div class="acc-option">
+					<h4>Associate <span>(free / low cost)</span></h4>
+					<p>Support El Terreno’s growth in finance, marketing and business development</p>
+					<a href="/programmes/associates" class="card-link">Learn more →</a>
+				</div>
+			</div>
+		</details>
+
+		<!-- Mentor -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Mentor</span>
+				<span class="acc-desc">"I have decades of experience and hard-won wisdom that I want to pass on while I still can"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Changemaker <span>(from $250 / week)</span></h4>
+					<p>Share your expertise to guide sustainable development projects that make an impact in low-income, indigenous communities</p>
+					<a href="/programmes/internships" class="card-link">Learn more →</a>
+				</div>
+				<div class="acc-option">
+					<h4>Associate <span>(free / low cost)</span></h4>
+					<p>Support El Terreno’s growth in finance, marketing and business development</p>
+					<a href="/programmes/associates" class="card-link">Learn more →</a>
+				</div>
+			</div>
+		</details>
 	</div>
 </section>
 
@@ -107,7 +131,7 @@
 
 <!-- ── SECTION 3: Find Your Fit ── -->
 <section class="prog-section" id="apply">
-	<p class="s-label">03 — Not Sure Where To Start?</p>
+	<p class="s-label">02 — Not Sure Where To Start?</p>
 	<div class="quiz-inner">
 		<div class="quiz-left">
 			<h2>Find Your Fit</h2>
@@ -130,7 +154,7 @@
 
 <!-- ── SECTION 4: Social Proof ── -->
 <section class="prog-section" id="social-proof">
-	<p class="s-label">04 — What People Say</p>
+	<p class="s-label">03 — What People Say</p>
 	<h2>Social Proof</h2>
 
 	<div class="ratings-row">
@@ -171,8 +195,9 @@
 		min-height: 50vh;
 		display: flex;
 		flex-direction: column;
-		align-items: flex-start;
-		justify-content: flex-end;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
 		padding: 3.5rem 5rem 4rem;
 	}
 
@@ -198,6 +223,7 @@
 		font-size: 1rem;
 		max-width: 580px;
 		line-height: 1.65;
+		margin: 0 auto;
 	}
 
 	.mission-line em {
@@ -259,197 +285,126 @@
 	}
 
 	/* ── Video ── */
-	.video-placeholder {
+	/* ── Accordion ── */
+	.accordion-wrapper {
 		max-width: 800px;
-		margin: 0 auto 1.5rem;
-		aspect-ratio: 16 / 9;
-		border: 2px dashed rgba(34, 57, 92, 0.2);
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		color: rgba(34, 57, 92, 0.4);
-		font-size: 0.9rem;
-		font-weight: 500;
-		letter-spacing: 0.05em;
-	}
-
-	.video-desc {
-		color: rgba(34, 57, 92, 0.7);
-		font-size: 0.95rem;
-		max-width: 600px;
-		margin: 0 auto 2.5rem;
-		line-height: 1.6;
-	}
-
-	/* ── Testimonials ── */
-	.testimonial-strip {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 1.5px;
-		max-width: 1100px;
 		margin: 0 auto;
-	}
-
-	.testimonial-cell {
-		background: #F9BA47;
-		padding: 1.8rem;
 		text-align: left;
-	}
-
-	.t-text {
-		color: rgba(34, 57, 92, 0.8);
-		font-style: italic;
-		font-size: 0.9rem;
-		line-height: 1.65;
-		margin-bottom: 0.75rem;
-	}
-
-	.t-attr {
-		color: #9B372F;
-		font-size: 0.62rem;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		font-weight: 700;
-		font-style: normal;
-	}
-
-	/* ── Quadrant ── */
-	.section-desc {
-		color: rgba(34, 57, 92, 0.7);
-		font-size: 0.95rem;
-		max-width: 620px;
-		margin: 0 auto 2.5rem;
-		line-height: 1.6;
-	}
-
-	.quadrant-wrapper {
-		display: grid;
-		grid-template-columns: 56px 1fr;
-		grid-template-rows: 1fr 56px;
-		max-width: 900px;
-		margin: 0 auto;
-		gap: 0;
-	}
-
-	.axis-y-top,
-	.axis-y-bottom {
-		writing-mode: vertical-rl;
-		transform: rotate(180deg);
-		text-align: center;
-		font-size: 0.65rem;
-		font-weight: 700;
-		letter-spacing: 0.15em;
-		text-transform: uppercase;
-		color: rgba(88, 186, 150, 0.7);
-		grid-row: 1;
-		grid-column: 1;
-		display: flex;
-		align-items: center;
-		justify-content: center;
-	}
-
-	.axis-y-bottom {
-		grid-row: 2;
-		grid-column: 1;
-		transform: rotate(180deg);
-	}
-
-	.quadrant-inner {
-		grid-row: 1 / 3;
-		grid-column: 2;
 		display: flex;
 		flex-direction: column;
+		gap: 0.5rem;
 	}
 
-	.quadrant-grid {
-		display: grid;
-		grid-template-columns: 1fr 1fr;
-		gap: 2px;
-		background: rgba(88, 186, 150, 0.12);
-		flex: 1;
-	}
-
-	.axis-x-row {
-		display: flex;
-		justify-content: space-between;
-		padding: 0.5rem 0.25rem 0;
-	}
-
-	.axis-x {
-		font-size: 0.65rem;
-		font-weight: 700;
-		letter-spacing: 0.15em;
-		text-transform: uppercase;
-		color: rgba(88, 186, 150, 0.7);
-	}
-
-	/* Programme cards */
-	.prog-card {
+	.prog-accordion {
 		background: #1E2134;
-		padding: 2.2rem 2rem;
-		display: flex;
-		flex-direction: column;
-		min-height: 230px;
-		text-decoration: none;
-		transition: background 0.2s;
-		text-align: left;
+		border-radius: 4px;
+		overflow: hidden;
+		border-left: 3px solid transparent;
+		transition: border-color 0.2s;
+	}
+	
+	.prog-accordion:hover {
+		border-left-color: #58BA96;
 	}
 
-	.prog-card:hover {
+	.prog-accordion summary {
+		display: flex;
+		align-items: center;
+		padding: 1.5rem;
+		cursor: pointer;
+		list-style: none;
+		position: relative;
+		transition: background 0.2s;
+	}
+	
+	.prog-accordion summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.prog-accordion summary:hover {
 		background: #242840;
 	}
 
-	.prog-card-internships {
-		border-top: 3px solid #58BA96;
-	}
-
-	.prog-card-sabbatical {
-		border-top: 3px solid #F9BA47;
-	}
-
-	.prog-card-volunteering {
-		border-top: 3px solid #9B372F;
-	}
-
-	.prog-card-associates {
-		border-top: 3px solid #22395C;
-	}
-
-	.quadrant-tag {
-		font-size: 0.56rem;
-		font-weight: 700;
-		letter-spacing: 0.12em;
-		text-transform: uppercase;
-		color: rgba(88, 186, 150, 0.45);
-		margin-bottom: 0.6rem;
-		display: block;
-	}
-
-	.prog-card h3 {
-		color: #F9BA47;
-		font-size: 0.95rem;
+	.acc-title {
+		font-size: 1rem;
 		font-weight: 900;
+		color: #F9BA47;
 		text-transform: uppercase;
-		margin-bottom: 0.4rem;
-		line-height: 1.2;
+		flex-shrink: 0;
+		min-width: 140px;
 	}
 
-	.life-stage {
-		color: rgba(88, 186, 150, 0.65);
-		font-size: 0.62rem;
-		font-weight: 700;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		margin-bottom: 0.75rem;
-		display: block;
-	}
-
-	.prog-card p {
-		color: rgba(255, 255, 254, 0.5);
-		font-size: 0.82rem;
-		line-height: 1.55;
+	.acc-desc {
+		font-size: 0.85rem;
+		color: rgba(255, 255, 254, 0.7);
+		font-style: italic;
+		padding-right: 2rem;
 		flex: 1;
-		margin-bottom: 0.75rem;
+	}
+
+	.acc-icon {
+		font-size: 1.5rem;
+		color: #58BA96;
+		font-weight: 700;
+		position: absolute;
+		right: 1.5rem;
+		top: 50%;
+		transform: translateY(-50%);
+		transition: transform 0.2s;
+	}
+
+	.prog-accordion[open] .acc-icon {
+		transform: translateY(-50%) rotate(45deg);
+	}
+
+	.acc-content {
+		padding: 0 1.5rem 1.5rem;
+		display: flex;
+		gap: 1.5rem;
+		flex-direction: column;
+	}
+	
+	@media (min-width: 600px) {
+		.acc-content {
+			flex-direction: row;
+		}
+	}
+
+	.acc-option {
+		background: rgba(255, 255, 255, 0.05);
+		padding: 1.5rem;
+		border-radius: 4px;
+		flex: 1;
+		border-top: 2px solid #58BA96;
+		transition: background 0.2s;
+	}
+	
+	.acc-option:hover {
+		background: rgba(255, 255, 255, 0.08);
+	}
+
+	.acc-option h4 {
+		color: #F9BA47;
+		font-size: 0.9rem;
+		font-weight: 700;
+		text-transform: uppercase;
+		margin-bottom: 0.25rem;
+	}
+
+	.acc-option h4 span {
+		font-size: 0.65rem;
+		color: rgba(255, 255, 254, 0.5);
+		text-transform: none;
+		font-weight: 500;
+		display: inline-block;
+		margin-left: 0.5rem;
+	}
+
+	.acc-option p {
+		color: rgba(255, 255, 254, 0.7);
+		font-size: 0.82rem;
+		line-height: 1.5;
+		margin-bottom: 1.5rem;
 	}
 
 	.card-link {
@@ -460,9 +415,10 @@
 		text-transform: uppercase;
 		transition: color 0.15s;
 		display: block;
+		text-decoration: none;
 	}
 
-	.prog-card:hover .card-link {
+	.acc-option:hover .card-link {
 		color: #F9BA47;
 	}
 
