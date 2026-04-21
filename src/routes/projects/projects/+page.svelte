@@ -15,7 +15,7 @@
 		<span class="eyebrow">El Terreno Foundation</span>
 		<h1>Projects</h1>
 		<p>
-			<em class="minga">Minga</em> — To co-create more vibrant, prosperous, and regenerative communities
+			To co-create more vibrant, prosperous, and regenerative communities
 			where migration is a choice — not a necessity.
 		</p>
 	</div>
