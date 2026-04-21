@@ -281,14 +281,10 @@
 
 	.projects-hero p {
 		font-size: 0.88rem;
-		color: rgba(249, 186, 71, 0.75);
+		color: white;
+		font-style: italic;
 		max-width: 560px;
 		line-height: 1.65;
-	}
-
-	.projects-hero .minga {
-		color: #58ba96;
-		font-style: italic;
 	}
 
 	/* ── GRADIENT BANDS ── */
