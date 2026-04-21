@@ -281,7 +281,7 @@
 		color: #f9ba47;
 	}
 	.panel-projects .panel-body {
-		color: rgba(255, 255, 255, 0.8);
+		color: #ffffff;
 	}
 	.panel-programmes {
 		background: #f9ba47;
@@ -294,11 +294,19 @@
 		color: #22395c;
 	}
 	.panel-programmes .panel-body {
-		color: rgba(30, 33, 52, 0.75);
+		color: #1e2134;
+	}
+	.panel-programmes .btn-std:hover {
+		background: rgba(34, 57, 92, 0.12);
+		border-color: #22395c;
+		color: #22395c;
 	}
 	.panel-visits {
 		background: #9b372f;
 		color: #fffffe;
+	}
+	.panel-visits .btn-std {
+		border-color: #f9ba47;
 	}
 	.panel-visits .panel-label {
 		color: #da7939;

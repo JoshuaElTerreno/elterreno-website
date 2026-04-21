@@ -14,7 +14,6 @@
 	<p class="eyebrow">Cultural Exchange Centre</p>
 	<h1>Programmes</h1>
 	<p class="mission-line">
-		<em><span class="tinkuy">Tinkuy</span> — </em>
 		<span class="mission-text">To be a bridge between modern and ancestral thought, building the next generation of conscious global leaders.</span>
 	</p>
 </section>
@@ -211,7 +210,7 @@
 	}
 
 	.mission-text {
-		color: rgba(34, 57, 92, 0.6);
+		color: #1E2134;
 	}
 
 	/* ── Section bands ── */

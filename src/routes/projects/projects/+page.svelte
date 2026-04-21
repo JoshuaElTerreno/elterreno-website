@@ -252,12 +252,15 @@
 		background: #22395c;
 		min-height: 50vh;
 		display: flex;
-		align-items: flex-end;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
 		padding: 3.5rem 5rem 4rem;
 	}
 
 	.projects-hero-inner {
 		max-width: 800px;
+		margin: 0 auto;
 	}
 
 	.projects-hero .eyebrow {
@@ -284,6 +287,7 @@
 		color: white;
 		font-style: italic;
 		max-width: 560px;
+		margin: 0 auto;
 		line-height: 1.65;
 	}
 
@@ -317,6 +321,7 @@
 		background: #22395c;
 		color: #fffffe;
 		padding: 5rem;
+		text-align: center;
 	}
 
 	.section-label {
@@ -341,16 +346,16 @@
 		font-size: 1rem;
 		color: rgba(255, 255, 255, 0.8);
 		max-width: 720px;
+		margin: 0 auto 2.5rem;
 		line-height: 1.7;
-		margin-bottom: 2.5rem;
 	}
 
 	.section-body-p {
 		font-size: 0.92rem;
 		color: rgba(255, 255, 255, 0.7);
 		max-width: 720px;
+		margin: 0 auto 1.5rem;
 		line-height: 1.7;
-		margin-bottom: 1.5rem;
 	}
 
 	/* ── STATS STRIP ── */
@@ -455,6 +460,7 @@
 		flex-wrap: wrap;
 		margin-top: 1.5rem;
 		align-items: center;
+		justify-content: center;
 	}
 
 	.btn-donate-lg {

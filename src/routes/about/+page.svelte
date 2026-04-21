@@ -13,7 +13,6 @@
 	<p class="eyebrow">About El Terreno</p>
 	<h1>About Us</h1>
 	<p class="subtitle">
-		<span class="sumak">"Sumak Kawsay"</span>
 		We envision a world of diverse cultural ecosystems, where we all live successful and significant lives.
 	</p>
 </section>
@@ -176,6 +175,11 @@
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
+			<p class="mentor-name">Gladys Pasto</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
 			<p class="mentor-name">Juan Andrés Gachet</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
@@ -201,7 +205,7 @@
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
-			<p class="mentor-name">Sebastián Calero</p>
+			<p class="mentor-name">Sandra Ramírez</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
