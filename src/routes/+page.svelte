@@ -308,6 +308,9 @@
 	.panel-visits .btn-std {
 		border-color: #f9ba47;
 	}
+	.panel-visits .btn-std:hover {
+		border-color: rgba(255, 255, 255, 0.7);
+	}
 	.panel-visits .panel-label {
 		color: #da7939;
 	}
