@@ -32,9 +32,13 @@
 				the things that bring true joy while enriching the world around us.
 			</p>
 			<p>
+			</p>
+			<p>
 				In contrast, indigenous peoples have existed for thousands of years in harmony with Mother
 				Earth. Yet after centuries of oppression and globalisation that glamorises a Western
 				lifestyle, many are disowning their cultures to migrate in search of a better life.
+			</p>
+			<p>
 			</p>
 			<p>
 				Each culture is facing a crisis. Each culture possesses what the other needs. But we only
@@ -46,12 +50,16 @@
 			<p>
 				In the same way a diverse ecosystem is more abundant and resilient, so too are we as
 				humanity when we experience meaningful cultural diversity. Through the respectful exchange
-				of cultures, traditions and worldviews, we can create meaningful solutions to the greatest
+				of knowledge, traditions and worldviews, we can create meaningful solutions to the greatest
 				challenges of our time.
+			</p>
+			<p>
 			</p>
 			<p>
 				We are building a real-world microcosm of a more vibrant, prosperous and regenerative world.
 			</p>
+			</p>
+			<p>
 			<p>We invite you to become a part of this mission in the heart of the Ecuadorian Andes.</p>
 		</div>
 	</div>
@@ -63,11 +71,11 @@
 	<p class="eyebrow">02 — What We Stand For</p>
 	<h2>Vision &amp; Mission</h2>
 
-	<h3 class="sub-heading">Vision</h3>
+	<h3 class="sub-heading">Our Vision</h3>
 	<div class="mission-block">
 		<p>
 			We envision a world of diverse cultural ecosystems, where we all live successful and
-			significant lives.
+			significant lives.	
 		</p>
 	</div>
 
@@ -82,7 +90,7 @@
 	<h3 class="sub-heading">Cultural Exchange Centre Mission</h3>
 	<div class="mission-block">
 		<p>
-			To be a bridge between modern and ancestral thought, building the next generation of conscious
+			To be a bridge between modern and ancestral worlds to build the next generation of conscious
 			global leaders.
 		</p>
 	</div>
@@ -101,7 +109,7 @@
 		</p>
 		<p>
 			It was founded by Joshua Holmes (UK), who, after years of working in international development
-			and social enterprise, arrived in Ecuador seeking a different way of engaging with the world's
+			and social enterprise, arrived in Ecuador seeking a different way to address the world's
 			most pressing challenges — one rooted in relationship, place, and mutual learning.
 		</p>
 		<p>
@@ -109,10 +117,6 @@
 			from across the globe, while also working hand-in-hand with local Kichwa and mestizo
 			communities to build something genuinely shared — a space where different worlds can meet,
 			learn, and grow together.
-		</p>
-		<p>
-			They say that true wisdom is planting a tree under which you will never enjoy its shade. We
-			plant with that spirit.
 		</p>
 	</div>
 </section>
@@ -131,6 +135,10 @@
 		</div>
 		<div class="team-card">
 			<p class="member-name">Cristian Toscano</p>
+			<p class="member-role">Programme Development Manager</p>
+		</div>
+		<div class="team-card">
+			<p class="member-name">Cris Morocho</p>
 			<p class="member-role">Programme Coordinator</p>
 		</div>
 		<div class="team-card">
@@ -143,7 +151,7 @@
 		</div>
 		<div class="team-card">
 			<p class="member-name">Samir Mora</p>
-			<p class="member-role">Content Creator</p>
+			<p class="member-role">Marketing Manager</p>
 		</div>
 		<div class="team-card">
 			<p class="member-name">Vaneza Barahona</p>
