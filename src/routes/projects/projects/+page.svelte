@@ -597,10 +597,10 @@
 
 	.btn-donate-lg {
 		display: inline-block;
-		padding: 0.9rem 2.2rem;
-		font-size: 0.78rem;
+		padding: var(--pad-btn);
+		font-size: var(--fs-btn);
 		font-weight: 700;
-		letter-spacing: 0.12em;
+		letter-spacing: var(--ls-btn);
 		text-transform: uppercase;
 		text-decoration: none;
 		background: #f9ba47;

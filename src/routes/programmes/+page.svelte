@@ -456,10 +456,10 @@
 
 	.btn-quiz {
 		display: inline-block;
-		padding: 0.75rem 1.8rem;
+		padding: var(--pad-btn);
 		background: #F9BA47;
 		color: #1E2134;
-		font-size: 0.72rem;
+		font-size: var(--fs-btn);
 		font-weight: 900;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
@@ -479,10 +479,10 @@
 
 	.btn-contact-ghost {
 		display: inline-block;
-		padding: 0.75rem 1.8rem;
+		padding: var(--pad-btn);
 		background: transparent;
 		color: rgba(255, 255, 254, 0.6);
-		font-size: 0.72rem;
+		font-size: var(--fs-btn);
 		font-weight: 700;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;

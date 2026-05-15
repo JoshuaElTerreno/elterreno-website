@@ -7,6 +7,9 @@
 	--fs-h3: 1.05rem;
 	--fs-body: 0.95rem;
 	--fs-body-sm: 0.88rem;
+	--fs-btn: 0.72rem;
+	--ls-btn: 0.1em;
+	--pad-btn: 0.7rem 1.6rem;
 }
 
 @theme {
@@ -538,11 +541,11 @@ footer a:hover {
 .btn,
 .btn-std {
 	display: inline-block;
-	padding: 0.7rem 1.6rem;
-	font-size: 0.72rem;
+	padding: var(--pad-btn);
+	font-size: var(--fs-btn);
 	font-weight: 700;
 	font-family: 'Montserrat', sans-serif;
-	letter-spacing: 0.1em;
+	letter-spacing: var(--ls-btn);
 	text-transform: uppercase;
 	text-decoration: none;
 	border: 1.5px solid #9b372f;

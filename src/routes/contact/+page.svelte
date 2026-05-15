@@ -261,12 +261,13 @@
 	.submit-btn {
 		background: #9B372F;
 		color: #F9BA47;
-		border: none;
-		padding: 0.85rem 2.2rem;
+		border: 1.5px solid #9B372F;
+		padding: var(--pad-btn);
 		border-radius: 24px;
-		font-size: 0.9rem;
-		font-weight: 600;
-		letter-spacing: 0.04em;
+		font-size: var(--fs-btn);
+		font-weight: 700;
+		letter-spacing: var(--ls-btn);
+		text-transform: uppercase;
 		cursor: pointer;
 		transition: opacity 0.15s;
 		font-family: inherit;

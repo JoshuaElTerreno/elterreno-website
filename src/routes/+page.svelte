@@ -232,11 +232,11 @@
 	}
 	.btn-ghost {
 		display: inline-block;
-		padding: 0.62rem 1.35rem;
+		padding: var(--pad-btn);
 		font-family: inherit;
-		font-size: 0.68rem;
+		font-size: var(--fs-btn);
 		font-weight: 700;
-		letter-spacing: 0.1em;
+		letter-spacing: var(--ls-btn);
 		text-transform: uppercase;
 		text-decoration: none;
 		background: transparent;
@@ -252,11 +252,11 @@
 	}
 	.btn-ghost-dk {
 		display: inline-block;
-		padding: 0.62rem 1.35rem;
+		padding: var(--pad-btn);
 		font-family: inherit;
-		font-size: 0.68rem;
+		font-size: var(--fs-btn);
 		font-weight: 700;
-		letter-spacing: 0.1em;
+		letter-spacing: var(--ls-btn);
 		text-transform: uppercase;
 		text-decoration: none;
 		background: transparent;
