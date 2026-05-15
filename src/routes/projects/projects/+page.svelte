@@ -29,159 +29,206 @@
 	<span class="section-label">01 — The Context</span>
 	<h2>Local Challenges</h2>
 	<p class="section-intro-p">
-		The Bolívar province of Ecuador is one of the country's poorest regions. 40% of rural people
-		live in poverty. 95% of surrounding communities are indigenous, predominantly Kichwa-speaking,
-		and their culture is under threat from centuries of colonisation and modern globalisation.
+		The Bolívar is one of Ecuador's poorest provinces. While the region is one of the most fertile
+		and features stunning landscapes, the predominantly indigenous population living in the rural
+		communities face many challenges.
 	</p>
 
 	<div class="stats-strip">
 		<div class="stat-cell">
 			<span class="stat-number">40%</span>
-			<span class="stat-label">Rural poverty rate</span>
+			<span class="stat-label">Poverty</span>
 		</div>
 		<div class="stat-cell">
 			<span class="stat-number">48%</span>
-			<span class="stat-label">Child malnutrition</span>
+			<span class="stat-label">Child Malnutrition</span>
 		</div>
 		<div class="stat-cell">
 			<span class="stat-number">1 in 4</span>
-			<span class="stat-label">Teenage pregnancy rate</span>
+			<span class="stat-label">Teenage Pregnancy</span>
 		</div>
 		<div class="stat-cell">
-			<span class="stat-number">5,300</span>
-			<span class="stat-label">People per health centre</span>
+			<span class="stat-number">75%</span>
+			<span class="stat-label">High School Drop Out</span>
+		</div>
+		<div class="stat-cell">
+			<span class="stat-number">3–4 Months</span>
+			<span class="stat-label">Annual Water Shortage</span>
 		</div>
 	</div>
 
 	<p class="section-body-p">
-		Less than 25% of young people progress beyond middle school. Poor agricultural returns force
-		migration to cities. 500 years of colonisation have eroded indigenous language and culture. El
-		Terreno works at the intersection of these challenges, alongside communities as partners — not
-		subjects.
+		These numbers are the legacy of centuries of colonisation and systemic discrimination.
+		When combined with the allure of a modern lifestyle and reactions to economic shocks,
+		large numbers migrate — often to the USA without documentation — in search of a better life.
+		This separation from place, family and community leads to an erosion of language and culture,
+		and the loss of the leaders needed for its future.
 	</p>
+	<p class="section-body-p">
+		Unless something is done in the next generation, the region risks losing the majority of its
+		population and culture, forever.
+	</p>
+</section>
+
+<!-- BAND: approach -->
+<div class="band band-approach"></div>
+
+<!-- SECTION 2: OUR APPROACH -->
+<section class="dark-section" id="our-approach">
+	<span class="section-label">02 — Our Methodology</span>
+	<h2>Our Approach</h2>
+
+	<div class="approach-methods">
+		<div class="method-block">
+			<h3>Community Participation Methodology</h3>
+			<p>
+				Our community participation methodology is grounded in design thinking — a human-centred
+				process that begins with deep listening and co-creation alongside the communities we serve.
+				Through long-term relationships with community organisations and regional and national
+				partners, we ensure every project is locally owned, culturally grounded, and built to last.
+			</p>
+		</div>
+		<div class="method-block">
+			<h3>Personal Transformation Methodology</h3>
+			<p>
+				Alongside community impact, we believe meaningful change in the world begins with meaningful
+				change within ourselves. Our personal transformation methodology supports participants in
+				their own inner journey — developing the self-awareness, resilience and values needed to be
+				effective agents of change. More detail coming soon.
+			</p>
+		</div>
+	</div>
 </section>
 
 <!-- BAND: projects -->
 <div class="band band-projects-grad"></div>
 
-<!-- SECTION 2: SPECIFIC PROJECTS -->
+<!-- SECTION 3: FLAGSHIP PROJECTS -->
 <section class="dark-section" id="projects">
-	<span class="section-label">02 — What We Do</span>
-	<h2>Specific Projects</h2>
-	<p class="section-intro-p">
-		We work across 18 community project areas, each designed in partnership with local communities
-		to address real, lived challenges in the Bolívar province.
-	</p>
+	<span class="section-label">03 — What We Do</span>
+	<h2>Flagship Projects</h2>
 
-	<div class="projects-grid">
-		<div class="project-cell">
-			<h4>Architecture & Sustainable Building</h4>
-			<p>Designing and constructing low-cost, climate-appropriate structures with and for communities.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Community Water Management</h4>
-			<p>Improving access to clean water through infrastructure, maintenance, and community education.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Agroecology & Community Farming</h4>
-			<p>Strengthening food sovereignty through sustainable farming practices and crop diversification.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Education & English Teaching</h4>
-			<p>Expanding educational access and English language skills to open opportunities for young people.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Journalism & Multimedia</h4>
-			<p>Building community storytelling capacity through media training and content production.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Nursery Development</h4>
-			<p>Growing and distributing native plant species to support reforestation and food production.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Environmental & Civil Engineering</h4>
-			<p>Designing sustainable infrastructure solutions for rural communities including roads and drainage.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Cooking & Family Nutrition</h4>
-			<p>Improving family health outcomes through nutrition education and cooking workshops.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Biology & Endemic Ecology</h4>
-			<p>Researching and protecting the unique flora and fauna of the Bolívar cloud forest ecosystem.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Anthropology & Development</h4>
-			<p>Supporting culturally grounded approaches to development through participatory research.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Medicine & Public Health</h4>
-			<p>Delivering health education and basic medical support to underserved rural communities.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Gender Equality & Reproductive Health</h4>
-			<p>Empowering women and girls through rights education, health support, and safe spaces.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Eco & Community Tourism</h4>
-			<p>Developing sustainable tourism pathways that generate income while protecting culture and nature.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Murals & Community Arts</h4>
-			<p>Using public art to celebrate indigenous identity, history, and community pride.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Community Business Development</h4>
-			<p>Supporting local entrepreneurs with business skills, mentorship, and market connections.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Law & Community Governance</h4>
-			<p>Strengthening communities' legal literacy and ability to advocate for their rights.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Language & Cultural Preservation</h4>
-			<p>Revitalising Kichwa language and ancestral traditions through education and documentation.</p>
-		</div>
-		<div class="project-cell">
-			<h4>Extractivism & Conservation</h4>
-			<p>Advocating against harmful extractive practices and protecting community land and ecosystems.</p>
-		</div>
+	<div class="flagship-list">
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Vernacular Social Housing</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Water Security Reforestation</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Community Farming Assistance</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Indigenous Midwifery</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Solar Energy Installation</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Water Quality &amp; Nutrition</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
+
+		<details class="flagship-item">
+			<summary class="flagship-summary">
+				<div class="flagship-img"></div>
+				<span class="flagship-title">Community Tourism Development</span>
+				<span class="flagship-toggle">+</span>
+			</summary>
+			<div class="flagship-content">
+				<p>Description and details coming soon.</p>
+			</div>
+		</details>
 	</div>
 </section>
 
 <!-- BAND: partners -->
 <div class="band band-partners"></div>
 
-<!-- SECTION 3: PARTNERS -->
+<!-- SECTION 4: PROJECT PARTNERS -->
 <section class="dark-section" id="partners">
-	<span class="section-label">03 — Who Stands With Us</span>
-	<h2>Partners</h2>
-	<p class="section-intro-p">
-		We work with organisations across Ecuador and internationally who share our commitment to
-		community-led, culturally respectful development.
-	</p>
+	<span class="section-label">04 — Who Stands With Us</span>
+	<h2>Project Partners</h2>
 
-	<div class="partners-grid">
-		<div class="partner-item">
-			<span>Kaya Responsible Travel</span>
-		</div>
-		<div class="partner-item">
-			<span>EcuaExplora</span>
-		</div>
-		<div class="partner-item">
-			<span>SEIBE</span>
-		</div>
-		<div class="partner-item">
-			<span>Ministerio de Salud Pública</span>
-		</div>
-		<div class="partner-item">
-			<span>Acción Social Municipal Guaranda</span>
-		</div>
-		<div class="partner-item">
-			<span>Sinclair School of Nursing, Univ. of Missouri</span>
-		</div>
-		<div class="partner-item">
-			<span>El Nuevo Ecuador Resuelve</span>
+	<div class="carousel-wrapper">
+		<div class="carousel-track">
+			<div class="partner-logo">Ministry of Public Health</div>
+			<div class="partner-logo">Ministry of Human Development</div>
+			<div class="partner-logo">Ministry of Education</div>
+			<div class="partner-logo">Gobernación de Bolívar</div>
+			<div class="partner-logo">Prefectura de Bolívar</div>
+			<div class="partner-logo">Municipio de Guaranda</div>
+			<div class="partner-logo">Universidad Estatal de Bolívar</div>
+			<div class="partner-logo">SEIBE</div>
+			<div class="partner-logo">CARE Ecuador</div>
+			<div class="partner-logo">Red Cross</div>
+			<div class="partner-logo">World Food Programme</div>
+			<div class="partner-logo">FEPP</div>
+			<div class="partner-logo">Casa de la Cultura Nucleo Bolívar</div>
+			<div class="partner-logo">EcuaExplora</div>
+			<div class="partner-logo">Kaya Responsible Travel</div>
+			<!-- Duplicated for seamless loop -->
+			<div class="partner-logo">Ministry of Public Health</div>
+			<div class="partner-logo">Ministry of Human Development</div>
+			<div class="partner-logo">Ministry of Education</div>
+			<div class="partner-logo">Gobernación de Bolívar</div>
+			<div class="partner-logo">Prefectura de Bolívar</div>
+			<div class="partner-logo">Municipio de Guaranda</div>
+			<div class="partner-logo">Universidad Estatal de Bolívar</div>
+			<div class="partner-logo">SEIBE</div>
+			<div class="partner-logo">CARE Ecuador</div>
+			<div class="partner-logo">Red Cross</div>
+			<div class="partner-logo">World Food Programme</div>
+			<div class="partner-logo">FEPP</div>
+			<div class="partner-logo">Casa de la Cultura Nucleo Bolívar</div>
+			<div class="partner-logo">EcuaExplora</div>
+			<div class="partner-logo">Kaya Responsible Travel</div>
 		</div>
 	</div>
 </section>
@@ -189,60 +236,50 @@
 <!-- BAND: impact -->
 <div class="band band-impact"></div>
 
-<!-- SECTION 4: IMPACT -->
+<!-- SECTION 5: IMPACT -->
 <section class="dark-section" id="impact">
-	<span class="section-label">04 — Proof It Works</span>
+	<span class="section-label">05 — Proof It Works</span>
 	<h2>Impact</h2>
 
-	<div class="stats-strip">
+	<div class="stats-strip stats-impact">
 		<div class="stat-cell">
-			<span class="stat-number">130+</span>
-			<span class="stat-label">Community workshops</span>
+			<span class="stat-number">5 Years</span>
+			<span class="stat-label">In Operation</span>
 		</div>
 		<div class="stat-cell">
-			<span class="stat-number">5</span>
-			<span class="stat-label">Years active</span>
+			<span class="stat-number">20+</span>
+			<span class="stat-label">Partnerships Developed</span>
 		</div>
 		<div class="stat-cell">
-			<span class="stat-number">17</span>
-			<span class="stat-label">Communities served</span>
+			<span class="stat-number">50+</span>
+			<span class="stat-label">Projects Delivered</span>
 		</div>
 		<div class="stat-cell">
-			<span class="stat-number">18</span>
-			<span class="stat-label">Project areas</span>
+			<span class="stat-number">6</span>
+			<span class="stat-label">Communities Receiving Support</span>
+		</div>
+		<div class="stat-cell">
+			<span class="stat-number">20,000+</span>
+			<span class="stat-label">Trees Planted</span>
 		</div>
 	</div>
-
-	<p class="section-body-p">
-		Since launching in July 2022, we have impacted hundreds of lives across 17 communities in the
-		Bolívar province, delivering over 130 community workshops and running 18 active project areas in
-		partnership with local families, leaders, and institutions.
-	</p>
-
-	<h3 class="approach-heading">Our Approach</h3>
-	<p class="section-body-p">
-		Every project is co-designed with the communities we serve. We sit down, listen, and ask: what
-		do you need? What do you already have? How can we build on your knowledge and strengths? This
-		approach ensures that our work is relevant, sustainable, and owned by the people it is meant to
-		serve — not imposed from outside.
-	</p>
 </section>
 
 <!-- BAND: donate -->
 <div class="band band-donate"></div>
 
-<!-- SECTION 5: DONATE -->
+<!-- SECTION 6: DONATE -->
 <section class="dark-section" id="donate">
-	<span class="section-label">05 — Support The Work</span>
+	<span class="section-label">06 — Support The Work</span>
 	<h2>Donate</h2>
 	<p class="section-intro-p">
-		Every contribution directly funds community projects in Bolívar, Ecuador. No overhead — your
-		money goes straight to impact.
+		When you donate to the El Terreno Foundation, 95% of your donations go directly towards
+		project delivery, meaning your generosity will impact more lives than contributions to most
+		large charities.
 	</p>
 
 	<div class="donate-cta">
 		<a href="/projects/donate" class="btn-donate-lg">Donate Now</a>
-		<a href="/projects/impact" class="btn-ghost-nav">Read Our Impact Report</a>
 	</div>
 </section>
 
@@ -265,10 +302,6 @@
 
 	.projects-hero .eyebrow {
 		display: block;
-		font-size: 0.7rem;
-		font-weight: 700;
-		letter-spacing: 0.15em;
-		text-transform: uppercase;
 		color: #58ba96;
 		margin-bottom: 0.75rem;
 	}
@@ -283,7 +316,7 @@
 	}
 
 	.projects-hero p {
-		font-size: 0.88rem;
+		font-size: var(--fs-body-sm);
 		color: white;
 		font-style: italic;
 		max-width: 560px;
@@ -300,8 +333,12 @@
 		background: linear-gradient(to right, #22395c, #1f6366, #22395c);
 	}
 
-	.band-projects-grad {
+	.band-approach {
 		background: linear-gradient(to right, #22395c, #58ba96, #22395c);
+	}
+
+	.band-projects-grad {
+		background: linear-gradient(to right, #22395c, #1f6366, #22395c);
 	}
 
 	.band-partners {
@@ -326,16 +363,16 @@
 
 	.section-label {
 		display: block;
-		font-size: 0.65rem;
+		font-size: var(--fs-eyebrow);
 		font-weight: 700;
-		letter-spacing: 0.2em;
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		color: rgba(255, 255, 255, 0.4);
 		margin-bottom: 0.75rem;
 	}
 
 	.dark-section h2 {
-		font-size: clamp(1.8rem, 3vw, 2.8rem);
+		font-size: var(--fs-section-h2);
 		font-weight: 900;
 		color: #f9ba47;
 		letter-spacing: -0.02em;
@@ -343,7 +380,7 @@
 	}
 
 	.section-intro-p {
-		font-size: 1rem;
+		font-size: var(--fs-body);
 		color: rgba(255, 255, 255, 0.8);
 		max-width: 720px;
 		margin: 0 auto 2.5rem;
@@ -351,7 +388,7 @@
 	}
 
 	.section-body-p {
-		font-size: 0.92rem;
+		font-size: var(--fs-body-sm);
 		color: rgba(255, 255, 255, 0.7);
 		max-width: 720px;
 		margin: 0 auto 1.5rem;
@@ -361,7 +398,7 @@
 	/* ── STATS STRIP ── */
 	.stats-strip {
 		display: grid;
-		grid-template-columns: repeat(4, 1fr);
+		grid-template-columns: repeat(5, 1fr);
 		gap: 1.5px;
 		background: rgba(255, 255, 255, 0.06);
 		margin-bottom: 2.5rem;
@@ -383,74 +420,169 @@
 	}
 
 	.stat-label {
-		font-size: 0.7rem;
+		font-size: var(--fs-eyebrow);
 		font-weight: 600;
 		letter-spacing: 0.1em;
 		text-transform: uppercase;
 		color: rgba(255, 255, 255, 0.5);
 	}
 
-	/* ── PROJECTS GRID ── */
-	.projects-grid {
+	/* ── OUR APPROACH ── */
+	.approach-methods {
 		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-		gap: 1.5px;
-		background: rgba(255, 255, 255, 0.06);
+		grid-template-columns: 1fr 1fr;
+		gap: 3rem;
+		max-width: 1000px;
+		margin: 0 auto;
+		text-align: left;
 	}
 
-	.project-cell {
+	.method-block {
 		background: rgba(255, 255, 255, 0.05);
-		border: 1px solid rgba(255, 255, 255, 0.08);
-		padding: 1.5rem;
+		border: 1px solid rgba(255, 255, 255, 0.1);
+		border-top: 3px solid #58ba96;
+		padding: 2rem;
 	}
 
-	.project-cell h4 {
-		font-size: 0.8rem;
+	.method-block h3 {
+		font-size: var(--fs-h3);
 		font-weight: 700;
 		color: #f9ba47;
 		text-transform: uppercase;
-		letter-spacing: 0.05em;
-		margin-bottom: 0.5rem;
+		letter-spacing: 0.04em;
+		margin-bottom: 1rem;
 	}
 
-	.project-cell p {
-		font-size: 0.82rem;
-		color: rgba(255, 255, 255, 0.65);
-		line-height: 1.55;
+	.method-block p {
+		font-size: var(--fs-body-sm);
+		color: rgba(255, 255, 255, 0.75);
+		line-height: 1.7;
 	}
 
-	/* ── PARTNERS GRID ── */
-	.partners-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-		gap: 1.2rem;
+	/* ── FLAGSHIP PROJECTS ── */
+	.flagship-list {
+		max-width: 900px;
+		margin: 0 auto;
+		display: flex;
+		flex-direction: column;
+		gap: 1.5px;
 	}
 
-	.partner-item {
+	.flagship-item {
 		background: rgba(255, 255, 255, 0.05);
 		border: 1px solid rgba(255, 255, 255, 0.08);
-		padding: 1.2rem;
-		text-align: center;
+	}
+
+	.flagship-item[open] {
+		border-color: rgba(88, 186, 150, 0.4);
+	}
+
+	.flagship-summary {
+		display: flex;
+		align-items: center;
+		gap: 1.5rem;
+		padding: 1.25rem 1.5rem;
+		cursor: pointer;
+		list-style: none;
+		transition: background 0.2s;
+	}
+
+	.flagship-summary::-webkit-details-marker {
+		display: none;
+	}
+
+	.flagship-summary:hover {
+		background: rgba(255, 255, 255, 0.04);
+	}
+
+	.flagship-img {
+		width: 80px;
+		height: 56px;
+		flex-shrink: 0;
+		background: rgba(255, 255, 255, 0.08);
+		border: 1px dashed rgba(255, 255, 255, 0.2);
+	}
+
+	.flagship-title {
+		flex: 1;
+		text-align: left;
+		font-size: var(--fs-h3);
+		font-weight: 700;
+		color: #f9ba47;
+		text-transform: uppercase;
+		letter-spacing: 0.04em;
+	}
+
+	.flagship-toggle {
+		font-size: 1.4rem;
+		font-weight: 300;
+		color: #58ba96;
+		line-height: 1;
+		transition: transform 0.2s;
+		flex-shrink: 0;
+	}
+
+	.flagship-item[open] .flagship-toggle {
+		transform: rotate(45deg);
+	}
+
+	.flagship-content {
+		padding: 1.5rem 1.5rem 1.5rem calc(80px + 3rem);
+		border-top: 1px solid rgba(255, 255, 255, 0.06);
+		text-align: left;
+	}
+
+	.flagship-content p {
+		font-size: var(--fs-body-sm);
+		color: rgba(255, 255, 255, 0.7);
+		line-height: 1.7;
+	}
+
+	/* ── PARTNERS CAROUSEL ── */
+	.carousel-wrapper {
+		overflow: hidden;
+		mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+		-webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+		margin-top: 1.5rem;
+	}
+
+	.carousel-track {
+		display: flex;
+		gap: 1.5rem;
+		width: max-content;
+		animation: marquee 40s linear infinite;
+	}
+
+	.carousel-track:hover {
+		animation-play-state: paused;
+	}
+
+	@keyframes marquee {
+		from {
+			transform: translateX(0);
+		}
+		to {
+			transform: translateX(-50%);
+		}
+	}
+
+	.partner-logo {
 		display: flex;
 		align-items: center;
 		justify-content: center;
-	}
-
-	.partner-item span {
-		font-size: 0.82rem;
-		font-weight: 600;
-		color: rgba(255, 255, 255, 0.7);
-		line-height: 1.4;
-	}
-
-	/* ── APPROACH HEADING ── */
-	.approach-heading {
-		font-size: 0.65rem;
+		padding: 0.85rem 1.5rem;
+		background: rgba(255, 255, 255, 0.04);
+		border: 1px solid rgba(255, 255, 255, 0.08);
+		min-width: 180px;
+		height: 56px;
+		white-space: nowrap;
+		font-size: 0.72rem;
 		font-weight: 700;
-		letter-spacing: 0.2em;
+		letter-spacing: 0.06em;
 		text-transform: uppercase;
-		color: #58ba96;
-		margin-bottom: 0.75rem;
+		color: rgba(255, 255, 255, 0.3);
+		filter: grayscale(1);
+		flex-shrink: 0;
 	}
 
 	/* ── DONATE CTA ── */
@@ -482,27 +614,6 @@
 		opacity: 0.85;
 	}
 
-	.btn-ghost-nav {
-		display: inline-block;
-		font-size: 0.78rem;
-		font-weight: 600;
-		letter-spacing: 0.08em;
-		text-transform: uppercase;
-		text-decoration: none;
-		background: transparent;
-		color: rgba(255, 255, 255, 0.6);
-		border: 1.5px solid rgba(255, 255, 255, 0.25);
-		padding: 0.9rem 2rem;
-		border-radius: 24px;
-		transition: all 0.2s;
-		white-space: nowrap;
-	}
-
-	.btn-ghost-nav:hover {
-		color: #fffffe;
-		border-color: rgba(255, 255, 255, 0.6);
-	}
-
 	/* ── RESPONSIVE ── */
 	@media (max-width: 900px) {
 		.projects-hero {
@@ -518,16 +629,17 @@
 			grid-template-columns: repeat(2, 1fr);
 		}
 
-		.projects-grid {
-			grid-template-columns: repeat(2, 1fr);
+		.approach-methods {
+			grid-template-columns: 1fr;
+			gap: 1.5rem;
+		}
+
+		.flagship-content {
+			padding: 1.25rem 1.5rem;
 		}
 	}
 
 	@media (max-width: 600px) {
-		.projects-grid {
-			grid-template-columns: 1fr;
-		}
-
 		.stats-strip {
 			grid-template-columns: repeat(2, 1fr);
 		}
@@ -535,6 +647,10 @@
 		.donate-cta {
 			flex-direction: column;
 			gap: 1rem;
+		}
+
+		.flagship-img {
+			display: none;
 		}
 	}
 </style>

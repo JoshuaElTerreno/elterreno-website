@@ -54,12 +54,8 @@
 				challenges of our time.
 			</p>
 			<p>
-			</p>
-			<p>
 				We are building a real-world microcosm of a more vibrant, prosperous and regenerative world.
 			</p>
-			</p>
-			<p>
 			<p>We invite you to become a part of this mission in the heart of the Ecuadorian Andes.</p>
 		</div>
 	</div>
@@ -128,34 +124,48 @@
 	<h2>Our Team</h2>
 
 	<span class="team-heading">Core Team</span>
-	<div class="team-grid">
-		<div class="team-card">
-			<p class="member-name">Joshua Holmes</p>
-			<p class="member-role">Founder &amp; Director</p>
+	<div class="mentor-grid">
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Joshua Holmes</p>
+			<p class="mentor-role-label">Founder &amp; Director</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Cristian Toscano</p>
-			<p class="member-role">Programme Development Manager</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Cristian Toscano</p>
+			<p class="mentor-role-label">Programme Development Manager</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Cris Morocho</p>
-			<p class="member-role">Programme Coordinator</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Cris Morocho</p>
+			<p class="mentor-role-label">Programme Coordinator</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Neiser Aguilar</p>
-			<p class="member-role">Hospitality Manager</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Neiser Aguilar</p>
+			<p class="mentor-role-label">Hospitality Manager</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Karina Barahona</p>
-			<p class="member-role">Kitchen Manager</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Karina Barahona</p>
+			<p class="mentor-role-label">Kitchen Manager</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Samir Mora</p>
-			<p class="member-role">Marketing Manager</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Samir Mora</p>
+			<p class="mentor-role-label">Marketing Manager</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
-		<div class="team-card">
-			<p class="member-name">Vaneza Barahona</p>
-			<p class="member-role">Finance Manager</p>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Vaneza Barahona</p>
+			<p class="mentor-role-label">Finance Manager</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 	</div>
 
@@ -164,80 +174,104 @@
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">César Escudero</p>
+			<p class="mentor-role-label">Architect</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Cristian Vargas</p>
+			<p class="mentor-role-label">Engineer</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Erik Ulloa</p>
+			<p class="mentor-role-label">Engineer</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Fernando Cano</p>
+			<p class="mentor-role-label">Architect</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Gladys Pasto</p>
+			<p class="mentor-role-label">Kichwa Teacher</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Juan Andrés Gachet</p>
+			<p class="mentor-role-label">Tourism Developer</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Lenin Vásconez</p>
+			<p class="mentor-role-label">Community Development</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Mayte Veléz</p>
+			<p class="mentor-role-label">Architect</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Pamela Ordóñez</p>
+			<p class="mentor-role-label">Gender Specialist</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Paula Tamayo</p>
+			<p class="mentor-role-label">Architect</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Sandra Ramírez</p>
+			<p class="mentor-role-label">Spanish Teacher</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Sebastián Araya</p>
+			<p class="mentor-role-label">Community Developer &amp; Agroecologist</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Solange Yépez</p>
+			<p class="mentor-role-label">Film Maker</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 	</div>
 
 	<span class="team-heading">Foundation Trustees</span>
-	<ul class="trustee-list">
-		<li class="trustee-item">
-			<span class="trustee-name">Joshua Holmes</span>
-			<span class="trustee-role">President</span>
-		</li>
-		<li class="trustee-item">
-			<span class="trustee-name">Karina Barahona</span>
-			<span class="trustee-role">Vice President</span>
-		</li>
-		<li class="trustee-item">
-			<span class="trustee-name">Lenin Vásconez</span>
-			<span class="trustee-role">Secretary</span>
-		</li>
-	</ul>
+	<div class="mentor-grid">
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Joshua Holmes</p>
+			<p class="mentor-role-label">President</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Karina Barahona</p>
+			<p class="mentor-role-label">Vice President</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Lenin Vásconez</p>
+			<p class="mentor-role-label">Secretary</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
+	</div>
 </section>
 
 <style>
@@ -296,7 +330,7 @@
 	/* ── Section headings ── */
 	.content-section h2 {
 		color: #f9ba47;
-		font-size: clamp(2rem, 3.5vw, 3rem);
+		font-size: var(--fs-section-h2);
 		line-height: 0.95;
 		margin: 0 0 3rem;
 	}
@@ -320,8 +354,8 @@
 
 	.col-label {
 		color: #f9ba47;
-		font-size: 0.7rem;
-		letter-spacing: 0.18em;
+		font-size: var(--fs-eyebrow);
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		padding-bottom: 0.6rem;
 		border-bottom: 1px solid rgba(249, 186, 71, 0.2);
@@ -331,8 +365,8 @@
 	/* ── Mission sub-headings ── */
 	.sub-heading {
 		color: #58ba96;
-		font-size: 0.65rem;
-		letter-spacing: 0.2em;
+		font-size: var(--fs-eyebrow);
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		margin: 2.5rem 0 0.75rem;
 	}
@@ -364,41 +398,10 @@
 	.team-heading {
 		display: block;
 		color: rgba(255, 255, 255, 0.5);
-		font-size: 0.65rem;
-		letter-spacing: 0.2em;
+		font-size: var(--fs-eyebrow);
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		margin: 3rem 0 1.25rem;
-	}
-
-	/* ── Core team grid ── */
-	.team-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-		gap: 1rem;
-		max-width: 1100px;
-		margin: 0 auto;
-	}
-
-	.team-card {
-		background: rgba(255, 255, 255, 0.07);
-		border: 1px solid rgba(255, 255, 255, 0.1);
-		padding: 1.4rem;
-		text-align: left;
-	}
-
-	.member-name {
-		color: #f9ba47;
-		font-size: 0.82rem;
-		font-weight: 700;
-		margin: 0 0 0.3rem;
-	}
-
-	.member-role {
-		color: #58ba96;
-		font-size: 0.6rem;
-		letter-spacing: 0.1em;
-		text-transform: uppercase;
-		margin: 0;
 	}
 
 	/* ── Mentor grid ── */
@@ -433,6 +436,16 @@
 		text-align: center;
 	}
 
+	.mentor-role-label {
+		color: #58ba96;
+		font-size: 0.6rem;
+		font-weight: 700;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		margin: 0.2rem 0 0;
+		text-align: center;
+	}
+
 	.linkedin-link {
 		color: #58ba96;
 		font-size: 0.65rem;
@@ -442,39 +455,6 @@
 
 	.linkedin-link:hover {
 		text-decoration: underline;
-	}
-
-	/* ── Trustee list ── */
-	.trustee-list {
-		list-style: none;
-		padding: 0;
-		margin: 0 auto;
-		max-width: 500px;
-	}
-
-	.trustee-item {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		padding: 0.75rem 0;
-		border-bottom: 1px solid rgba(255, 255, 255, 0.08);
-		color: rgba(255, 255, 255, 0.8);
-		font-size: 0.9rem;
-	}
-
-	.trustee-item:last-child {
-		border-bottom: none;
-	}
-
-	.trustee-name {
-		color: rgba(255, 255, 255, 0.85);
-	}
-
-	.trustee-role {
-		color: #58ba96;
-		font-size: 0.6rem;
-		letter-spacing: 0.12em;
-		text-transform: uppercase;
 	}
 
 	/* ── Responsive ── */

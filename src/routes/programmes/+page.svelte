@@ -202,9 +202,9 @@
 	}
 
 	.prog-hero .eyebrow {
-		font-size: 0.7rem;
+		font-size: var(--fs-eyebrow);
 		font-weight: 700;
-		letter-spacing: 0.18em;
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		color: #9B372F;
 		margin-bottom: 0.6rem;
@@ -268,9 +268,9 @@
 	}
 
 	.s-label {
-		font-size: 0.65rem;
+		font-size: var(--fs-eyebrow);
 		font-weight: 700;
-		letter-spacing: 0.22em;
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		color: #9B372F;
 		margin-bottom: 0.75rem;
@@ -279,7 +279,7 @@
 
 	.prog-section h2 {
 		color: #22395C;
-		font-size: clamp(2rem, 3.5vw, 3rem);
+		font-size: var(--fs-section-h2);
 		line-height: 0.95;
 		margin-bottom: 1.5rem;
 	}

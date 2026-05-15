@@ -1,5 +1,14 @@
 @import 'tailwindcss';
 
+:root {
+	--fs-eyebrow: 0.68rem;
+	--ls-eyebrow: 0.2em;
+	--fs-section-h2: clamp(1.8rem, 3vw, 2.8rem);
+	--fs-h3: 1.05rem;
+	--fs-body: 0.95rem;
+	--fs-body-sm: 0.88rem;
+}
+
 @theme {
 	--color-dark: #1e2134;
 	--color-navy: #22395c;
@@ -287,9 +296,9 @@ footer a:hover {
 /* ── SHARED INNER-PAGE STYLES ── */
 
 .eyebrow {
-	font-size: 0.65rem;
+	font-size: var(--fs-eyebrow);
 	font-weight: 700;
-	letter-spacing: 0.22em;
+	letter-spacing: var(--ls-eyebrow);
 	text-transform: uppercase;
 	margin-bottom: 0.75rem;
 	display: block;
@@ -307,8 +316,8 @@ footer a:hover {
 }
 
 .section-banner .eyebrow {
-	font-size: 0.7rem;
-	letter-spacing: 0.15em;
+	font-size: var(--fs-eyebrow);
+	letter-spacing: var(--ls-eyebrow);
 	opacity: 0.5;
 	margin-bottom: 0.5rem;
 }
@@ -346,7 +355,7 @@ footer a:hover {
 }
 
 .section-intro h2 {
-	font-size: 1.6rem;
+	font-size: var(--fs-section-h2);
 	font-weight: 900;
 	margin-bottom: 0.5rem;
 }

@@ -152,9 +152,9 @@
 	}
 
 	.tourism-hero .eyebrow {
-		font-size: 0.7rem;
+		font-size: var(--fs-eyebrow);
 		font-weight: 700;
-		letter-spacing: 0.18em;
+		letter-spacing: var(--ls-eyebrow);
 		text-transform: uppercase;
 		color: #DA7939;
 		margin-bottom: 0.6rem;
