@@ -14,7 +14,7 @@
 	<p class="eyebrow">Cultural Exchange Centre</p>
 	<h1>Programmes</h1>
 	<p class="mission-line">
-		<span class="mission-text">To be a bridge between modern and ancestral thought, building the next generation of conscious global leaders.</span>
+		<span class="mission-text">To be a bridge between modern and ancestral worlds to build the next generation of conscious global leaders.</span>
 	</p>
 </section>
 
