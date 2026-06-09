@@ -86,7 +86,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Leader</span>
-				<span class="acc-desc">"I have built teams and delivered results, but I'm questioning what it's all for"</span>
+				<span class="acc-desc">"I have built teams and delivered results, now I want to use these skills to make a meaningful difference"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
