@@ -103,6 +103,27 @@
 			</div>
 		</details>
 
+		<!-- Alchemist -->
+		<details class="prog-accordion">
+			<summary>
+				<span class="acc-title">Alchemist</span>
+				<span class="acc-desc">"I feel the need to take my life in a new direction, either using my existing skills or retraining to develop new ones"</span>
+				<span class="acc-icon">+</span>
+			</summary>
+			<div class="acc-content">
+				<div class="acc-option">
+					<h4>Changemaker <span>(from $250 / week)</span></h4>
+					<p>Get reflect on life and your place in it, while contributing to sustainable development projects that support in low-income, indigenous communities</p>
+					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
+				</div>
+				<div class="acc-option">
+					<h4>Associate <span>(free / low cost)</span></h4>
+					<p>Use your existing skills to support El Terreno's growth in finance, marketing and business development</p>
+					<a href="/programmes/associates" class="card-link">Learn more →</a>
+				</div>
+			</div>
+		</details>
+
 		<!-- Mentor -->
 		<details class="prog-accordion">
 			<summary>
