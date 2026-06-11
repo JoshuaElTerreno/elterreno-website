@@ -113,7 +113,7 @@
 			<div class="acc-content">
 				<div class="acc-option">
 					<h4>Changemaker <span>(from $250 / week)</span></h4>
-					<p>Get reflect on life and your place in it, while contributing to sustainable development projects that support in low-income, indigenous communities</p>
+					<p>Reflect on life and your place in it, while contributing to sustainable development projects that support in low-income, indigenous communities</p>
 					<a href="/programmes/changemakers" class="card-link">Learn more →</a>
 				</div>
 				<div class="acc-option">
