@@ -33,7 +33,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Nomad</span>
-				<span class="acc-desc">"I'm exploring the world, finding myself and discovering my true passions"</span>
+				<span class="acc-desc">"I'm beginning a new adventure: exploring the world, finding myself and discovering my true passions"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
@@ -49,7 +49,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Apprentice</span>
-				<span class="acc-desc">"I've chosen my direction and I'm ready to turn my studies into real-world experience"</span>
+				<span class="acc-desc">"I've chosen my direction and I'm ready to build on my studies to gain real-world experience"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
@@ -65,7 +65,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Practitioner</span>
-				<span class="acc-desc">"I have solid professional experience and I'm ready to take on more responsibility and leadership"</span>
+				<span class="acc-desc">"I have solid professional skills and I'm ready to lead"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
@@ -107,7 +107,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Alchemist</span>
-				<span class="acc-desc">"I feel the need to take my life in a new direction, either using my existing skills or retraining to develop new ones"</span>
+				<span class="acc-desc">"I find myself at a powerful moment in life — feel a threshold where I am called to reinvent myself, retrain, or change my life in a significant way"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
@@ -128,7 +128,7 @@
 		<details class="prog-accordion">
 			<summary>
 				<span class="acc-title">Mentor</span>
-				<span class="acc-desc">"I have decades of experience and hard-won wisdom that I want to pass on while I still can"</span>
+				<span class="acc-desc">"I have decades of hard-won experience, and I want to continue contributing by passing my wisdom onto the next generation"</span>
 				<span class="acc-icon">+</span>
 			</summary>
 			<div class="acc-content">
@@ -153,12 +153,10 @@
 <!-- ── SECTION 3: Find Your Fit ── -->
 <section class="prog-section" id="apply">
 	<p class="s-label">02 — Not Sure Where To Start?</p>
+	<h2>Find Your Fit</h2>
 	<div class="quiz-inner">
-		<div class="quiz-left">
-			<h2>Find Your Fit</h2>
-			<p>Take our programme quiz to get a personalised recommendation in under two minutes, or get in touch with our team directly and we'll help you find the right path.</p>
-		</div>
-		<div class="quiz-right">
+		<p class="quiz-text">Take our programme quiz to get a personalised recommendation in under two minutes, or get in touch with our team directly and we'll help you find the right path.</p>
+		<div class="quiz-ctas">
 			<a
 				href="https://el-terreno.involve.me/programme-quiz"
 				target="_blank"
@@ -257,7 +255,7 @@
 	}
 
 	.mission-text {
-		color: #1E2134;
+		color: #22395C;
 	}
 
 	/* ── Section bands ── */
@@ -308,11 +306,11 @@
 	/* ── Video ── */
 	/* ── Accordion ── */
 	.accordion-wrapper {
-		max-width: 800px;
+		max-width: 900px;
 		margin: 0 auto;
 		text-align: left;
-		display: flex;
-		flex-direction: column;
+		display: grid;
+		grid-template-columns: 1fr 1fr;
 		gap: 0.5rem;
 	}
 
@@ -445,79 +443,70 @@
 
 	/* ── Quiz ── */
 	.quiz-inner {
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-		gap: 3rem;
-		max-width: 900px;
+		max-width: 700px;
 		margin: 0 auto;
-		text-align: left;
+		text-align: center;
 	}
 
-	.quiz-left {
-		flex: 1;
-	}
-
-	.quiz-left h2 {
-		margin-bottom: 0.75rem;
-	}
-
-	.quiz-left p {
+	.quiz-text {
 		color: rgba(34, 57, 92, 0.7);
 		font-size: 0.95rem;
 		line-height: 1.6;
+		margin-bottom: 1.5rem;
 	}
 
-	.quiz-right {
+	.quiz-ctas {
 		display: flex;
-		flex-direction: column;
+		justify-content: center;
+		align-items: center;
 		gap: 0.75rem;
-		flex-shrink: 0;
+		flex-wrap: wrap;
 	}
 
 	.btn-quiz {
 		display: inline-block;
 		padding: var(--pad-btn);
-		background: #F9BA47;
-		color: #1E2134;
+		background: #9B372F;
+		color: #F9BA47;
 		font-size: var(--fs-btn);
-		font-weight: 900;
-		letter-spacing: 0.1em;
+		font-weight: 700;
+		letter-spacing: var(--ls-btn);
 		text-transform: uppercase;
 		text-decoration: none;
 		border-radius: 24px;
-		border: 1.5px solid #F9BA47;
-		transition: all 0.2s;
+		border: 1.5px solid #9B372F;
+		transition: all 0.25s;
 		white-space: nowrap;
 		text-align: center;
+		cursor: pointer;
 	}
 
 	.btn-quiz:hover {
-		background: transparent;
-		color: #1E2134;
-		border-color: rgba(30, 33, 52, 0.4);
+		background: rgba(34, 57, 92, 0.12);
+		color: #22395C;
+		border-color: #22395C;
 	}
 
 	.btn-contact-ghost {
 		display: inline-block;
 		padding: var(--pad-btn);
 		background: transparent;
-		color: rgba(255, 255, 254, 0.6);
+		color: #22395C;
 		font-size: var(--fs-btn);
 		font-weight: 700;
-		letter-spacing: 0.1em;
+		letter-spacing: var(--ls-btn);
 		text-transform: uppercase;
 		text-decoration: none;
 		border-radius: 24px;
-		border: 1.5px solid rgba(255, 255, 255, 0.25);
-		transition: all 0.2s;
+		border: 1.5px solid rgba(34, 57, 92, 0.45);
+		transition: all 0.25s;
 		white-space: nowrap;
 		text-align: center;
 	}
 
 	.btn-contact-ghost:hover {
-		color: rgba(255, 255, 254, 0.9);
-		border-color: rgba(255, 255, 255, 0.5);
+		background: rgba(34, 57, 92, 0.12);
+		border-color: #22395C;
 	}
 
 	/* ── Ratings ── */
@@ -615,14 +604,8 @@
 			min-height: 180px;
 		}
 
-		.quiz-inner {
-			flex-direction: column;
-			text-align: center;
-		}
-
-		.quiz-right {
-			width: 100%;
-			align-items: center;
+		.accordion-wrapper {
+			grid-template-columns: 1fr;
 		}
 	}
 </style>
