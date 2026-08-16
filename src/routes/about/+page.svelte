@@ -139,14 +139,14 @@
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
-			<p class="mentor-name">Cris Morocho</p>
-			<p class="mentor-role-label">Programme Coordinator</p>
+			<p class="mentor-name">Neiser Aguilar</p>
+			<p class="mentor-role-label">Hospitality Manager</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
-			<p class="mentor-name">Neiser Aguilar</p>
-			<p class="mentor-role-label">Hospitality Manager</p>
+			<p class="mentor-name">Klever Vásconez</p>
+			<p class="mentor-role-label">Hospitality Assistant</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
@@ -171,6 +171,12 @@
 
 	<span class="team-heading">Mentors</span>
 	<div class="mentor-grid">
+		<div class="mentor-card">
+			<div class="mentor-photo"></div>
+			<p class="mentor-name">Carolina Donoso</p>
+			<p class="mentor-role-label">Spanish Teacher</p>
+			<a class="linkedin-link" href="/contact">LinkedIn →</a>
+		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">César Escudero</p>
@@ -209,12 +215,6 @@
 		</div>
 		<div class="mentor-card">
 			<div class="mentor-photo"></div>
-			<p class="mentor-name">Lenin Vásconez</p>
-			<p class="mentor-role-label">Community Development</p>
-			<a class="linkedin-link" href="/contact">LinkedIn →</a>
-		</div>
-		<div class="mentor-card">
-			<div class="mentor-photo"></div>
 			<p class="mentor-name">Mayte Veléz</p>
 			<p class="mentor-role-label">Architect</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
@@ -229,12 +229,6 @@
 			<div class="mentor-photo"></div>
 			<p class="mentor-name">Paula Tamayo</p>
 			<p class="mentor-role-label">Architect</p>
-			<a class="linkedin-link" href="/contact">LinkedIn →</a>
-		</div>
-		<div class="mentor-card">
-			<div class="mentor-photo"></div>
-			<p class="mentor-name">Sandra Ramírez</p>
-			<p class="mentor-role-label">Spanish Teacher</p>
 			<a class="linkedin-link" href="/contact">LinkedIn →</a>
 		</div>
 		<div class="mentor-card">
