@@ -41,6 +41,7 @@
 					<li><a href="/projects/projects#donate">Donate</a></li>
 				</ul>
 			</li>
+			<!-- Hidden: Programmes
 			<li>
 				<a href="/programmes" class="section-programmes" class:active={isActive.programmes}>Programmes</a>
 				<ul class="dropdown">
@@ -49,6 +50,7 @@
 					<li><a href="/programmes/associates">Professional Associate Positions</a></li>
 				</ul>
 			</li>
+			-->
 			<li>
 				<a href="/tourism" class="section-visits" class:active={isActive.visits}>Visits</a>
 				<ul class="dropdown">

@@ -38,7 +38,7 @@
 	</div>
 </div>
 
-<!-- PROGRAMMES -->
+<!-- PROGRAMMES (Hidden)
 <div class="band band-programmes"></div>
 <div class="content-panel panel-programmes">
 	<div class="panel-text">
@@ -55,6 +55,7 @@
 		</div>
 	</div>
 </div>
+-->
 
 <!-- VISITS -->
 <div class="band band-visits"></div>

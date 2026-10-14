@@ -26,12 +26,14 @@
 		<a href="/projects/impact">Impact</a>
 		<a href="/projects/donate">Donate</a>
 	</div>
+	<!-- Hidden: Programmes
 	<div>
 		<h5>Programmes</h5>
 		<a href="/programmes/volunteering">Volunteering</a>
 		<a href="/programmes/changemakers">Changemakers</a>
 		<a href="/programmes/associates">Associates</a>
 	</div>
+	-->
 	<div>
 		<h5>Visits</h5>
 		<a href="/tourism/accommodation">Accommodation</a>
