@@ -8,11 +8,25 @@
 		/** Canonical path, e.g. "/about" — site origin prepended automatically */
 		path?: string;
 		type?: 'website' | 'article';
+		/** Robots meta directive — defaults to 'index, follow' on production, 'noindex, nofollow' elsewhere */
+		robots?: string;
 	}
 
 	import { SITE_URL as SITE } from '$lib/config';
 
-	let { title, description, section = '', image, path = '', type = 'website' }: Props = $props();
+	let {
+		title,
+		description,
+		section = '',
+		image,
+		path = '',
+		type = 'website',
+		robots
+	}: Props = $props();
+
+	const isProduction = process.env.VERCEL_ENV === 'production';
+	const defaultRobots = isProduction ? 'index, follow' : 'noindex, nofollow';
+	const robotsDirective = $derived(robots ?? defaultRobots);
 
 	const fullTitle = $derived(title === 'El Terreno' ? title : `${title} | El Terreno`);
 	const ogImage = $derived(
@@ -45,7 +59,7 @@
 	<meta name="twitter:image" content="{SITE}{ogImage}" />
 
 	<!-- Extra -->
-	<meta name="robots" content="index, follow" />
+	<meta name="robots" content={robotsDirective} />
 	<meta name="geo.region" content="EC-B" />
 	<meta name="geo.placename" content="Guaranda, Bolívar, Ecuador" />
 </svelte:head>
